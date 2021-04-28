@@ -73,10 +73,10 @@ while True:
                 
 start_time = time.time()
 print('Starting scrape...')
-
+i=1
 #while data_exists:
 try:
-    for i in range(3):
+    for i in range(1, 300):
         #This is the page number used in the url query. 
         #pages +=1
                 
@@ -133,6 +133,7 @@ try:
                         
                 #append to a list of data so we can save this row for later
                 #data_list.append(columns)
+        time.sleep(3)
 except Exception() as e:
     print(e)
     data_list.append(columns)
