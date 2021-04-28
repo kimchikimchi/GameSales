@@ -1,0 +1,979 @@
+,Rank,Name,Platform,Publisher,Developer,Critic_Score,User_Score,Global_Sales,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Year
+0,1,Tetris,Series,Alexey Pajitnov,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,06th Jun 84
+1,2,Super Mario,Series,Nintendo,Nintendo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,20th Jul 83
+2,3,Pokemon,Series,Game Freak,Nintendo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,28th Sep 98
+3,4,Grand Theft Auto,Series,Rockstar North,Rockstar Games,N/A,N/A,N/A,N/A,N/A,N/A,N/A,27th Mar 98
+4,5,FIFA,Series,Extended Play Productions (1991-1997),EA Sports,N/A,N/A,N/A,N/A,N/A,N/A,N/A,15th Dec 93
+5,6,Call of Duty,Series,Infinity Ward,Activision,N/A,N/A,N/A,N/A,N/A,N/A,N/A,29th Oct 03
+6,7,Lego,Series,TT Fusion,Mindscape,N/A,N/A,N/A,N/A,N/A,N/A,N/A,26th Sep 97
+7,8,Minecraft,Series,Mojang,Mojang,N/A,N/A,N/A,N/A,N/A,N/A,N/A,18th Nov 11
+8,9,Minecraft,All,Mojang AB,Mojang,N/A,N/A,N/A,N/A,N/A,N/A,N/A,18th Nov 11
+9,10,The Sims,Series,Maxis,Electronic Arts,N/A,N/A,N/A,N/A,N/A,N/A,N/A,04th Feb 00
+10,11,Final Fantasy,Series,Square,Square,N/A,N/A,N/A,N/A,N/A,N/A,N/A,18th Dec 87
+11,12,Assassin's Creed,Series,Ubisoft,Ubisoft,N/A,N/A,N/A,N/A,N/A,N/A,N/A,13th Nov 07
+12,13,Mario Kart,Series,Nintendo,Nintendo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,01st Sep 92
+13,14,Need for Speed,Series,EA Black Box,Electronic Arts,N/A,N/A,N/A,N/A,N/A,N/A,N/A,31st Aug 94
+14,15,Grand Theft Auto V,All,Rockstar North,Rockstar Games,N/A,N/A,N/A,N/A,N/A,N/A,N/A,17th Sep 13
+15,16,Madden NFL,Series,Park Place Productions,Electronic Arts,N/A,N/A,N/A,N/A,N/A,N/A,N/A,01st Jun 88
+16,17,Wii Sports,Series,Nintendo,Nintendo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,19th Nov 06
+17,18,NBA 2K,Series,Visual Concepts,Sega,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10th Nov 99
+18,19,The Legend of Zelda,Series,Nintendo,Nintendo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,14th Jul 87
+19,20,Pro Evolution Soccer,Series,Konami,Konami,N/A,N/A,N/A,N/A,N/A,N/A,N/A,22nd Dec 95
+20,21,Resident Evil,Series,Capcom,Capcom,N/A,N/A,N/A,N/A,N/A,N/A,N/A,30th Mar 96
+21,22,Wii Sports,Wii,Nintendo EAD,Nintendo,7.7,N/A,82.65m,41.36m,29.02m,3.77m,8.51m,19th Nov 06
+22,23,Dragon Quest,Series,ArtePiazza,Square,N/A,N/A,N/A,N/A,N/A,N/A,N/A,27th May 86
+23,24,Halo,Series,Bungie,Microsoft Game Studios,N/A,N/A,N/A,N/A,N/A,N/A,N/A,15th Nov 01
+24,25,Tomb Raider,Series,Core Design,Eidos Interactive,N/A,N/A,N/A,N/A,N/A,N/A,N/A,14th Nov 96
+25,26,Gran Turismo,Series,Polyphony Digital,Sony Computer Entertainment,N/A,N/A,N/A,N/A,N/A,N/A,N/A,12th May 98
+26,27,Battlefield,Series,EA DICE,Electronic Arts,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10th Sep 02
+27,28,Sonic the Hedgehog,Series,Sonic Team,Sega,N/A,N/A,N/A,N/A,N/A,N/A,N/A,23rd Jun 91
+28,29,Worms,Series,Team17,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+29,30,Monster Hunter,Series,Capcom,Capcom,N/A,N/A,N/A,N/A,N/A,N/A,N/A,21st Sep 04
+30,31,Just Dance,Series,Ubisoft,Ubisoft,N/A,N/A,N/A,N/A,N/A,N/A,N/A,17th Nov 09
+31,32,PlayerUnknown's Battlegrounds,All,PUBG Corporation,PUBG Corporation,N/A,N/A,N/A,N/A,N/A,N/A,N/A,17th Dec 17
+32,33,PUBG,Series,PUBG Corporation,PUBG Corporation,N/A,N/A,N/A,N/A,N/A,N/A,N/A,20th Dec 17
+33,34,WWE 2K,Series,Visual Concepts,THQ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,02nd Mar 00
+34,35,Animal Crossing,Series,Nintendo,Nintendo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16th Sep 02
+35,36,Counter-Strike,Series,Valve,Valve,N/A,N/A,N/A,N/A,N/A,N/A,N/A,09th Nov 00
+36,37,The Oregon Trail,Series,MECC,MECC,N/A,N/A,N/A,N/A,N/A,N/A,N/A,03rd Dec 71
+37,38,Super Smash Bros.,Series,Nintendo,Nintendo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,26th Apr 99
+38,39,Donkey Kong,Series,Nintendo,Nintendo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,31st Jul 81
+39,40,Borderlands,Series,Gearbox Software,2K Games,N/A,N/A,N/A,N/A,N/A,N/A,N/A,20th Oct 09
+40,41,Dragon Ball,Series,Tose,Bandai,N/A,N/A,N/A,N/A,N/A,N/A,N/A,27th Sep 86
+41,42,The Elder Scrolls,Series,Bethesda Softworks,Bethesda Softworks,N/A,N/A,N/A,N/A,N/A,N/A,N/A,25th Mar 94
+42,43,Metal Gear,Series,Konami,Konami,N/A,N/A,N/A,N/A,N/A,N/A,N/A,13th Jul 87
+43,44,Mario Party,Series,Hudson Soft,Nintendo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,01st Feb 99
+44,45,Mortal Kombat,Series,Avalanche Software,Midway,N/A,N/A,N/A,N/A,N/A,N/A,N/A,08th Oct 92
+45,46,Red Dead,Series,Rockstar San Diego,Rockstar Games,N/A,N/A,N/A,N/A,N/A,N/A,N/A,04th May 04
+46,47,Far Cry,Series,Ubisoft,Ubisoft,N/A,N/A,N/A,N/A,N/A,N/A,N/A,23rd Mar 04
+47,48,God of War,Series,SIE Santa Monica Studio,Sony Computer Entertainment,N/A,N/A,N/A,N/A,N/A,N/A,N/A,22nd Mar 05
+48,49,Tekken,Series,Bandai Namco Studios,Namco,N/A,N/A,N/A,N/A,N/A,N/A,N/A,11th Dec 94
+49,50,The Walking Dead: Telltale Games Series,Series,Telltale Games,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+50,51,Bejeweled,Series,PopCap Games,PopCap Games,N/A,N/A,N/A,N/A,N/A,N/A,N/A,30th May 01
+51,52,Crash Bandicoot,Series,Naughty Dog,Sony Computer Entertainment,N/A,N/A,N/A,N/A,N/A,N/A,N/A,09th Sep 96
+52,53,Diablo,Series,Blizzard North,Blizzard Entertainment,N/A,N/A,N/A,N/A,N/A,N/A,N/A,03rd Jan 97
+53,54,Lego Star Wars,Series,TT Fusion,Eidos Interactive,N/A,N/A,N/A,N/A,N/A,N/A,N/A,29th Mar 05
+54,55,The Witcher,Series,CD Projekt Red Studio,Atari,N/A,N/A,N/A,N/A,N/A,N/A,N/A,30th Oct 07
+55,56,Fallout,Series,Interplay Entertainment,Interplay Productions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10th Oct 97
+56,57,Street Fighter,Series,Capcom,Capcom,N/A,N/A,N/A,N/A,N/A,N/A,N/A,30th Aug 87
+57,58,Warriors,Series,Omega Force,KOEI,N/A,N/A,N/A,N/A,N/A,N/A,N/A,30th Jun 97
+58,59,Uncharted,Series,Naughty Dog,Sony Computer Entertainment,N/A,N/A,N/A,N/A,N/A,N/A,N/A,20th Nov 07
+59,60,Civilization,Series,Firaxis Games,Microprose,N/A,N/A,N/A,N/A,N/A,N/A,N/A,01st Sep 91
+60,61,Wii Fit,Series,Nintendo,Nintendo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,21st May 08
+61,62,Star Wars: Battlefront,Series,Pandemic Studios,LucasArts,N/A,N/A,N/A,N/A,N/A,N/A,N/A,21st Sep 04
+62,63,Harry Potter,Series,Griptonite Games,Electronic Arts,N/A,N/A,N/A,N/A,N/A,N/A,N/A,15th Nov 01
+63,64,World of WarCraft,Series,Blizzard Entertainment,Blizzard Entertainment,N/A,N/A,N/A,N/A,N/A,N/A,N/A,23rd Nov 04
+64,65,Super Mario Bros.,NES,Nintendo EAD,Nintendo,10.0,8.2,40.24m,29.08m,3.58m,6.81m,0.77m,18th Oct 85
+65,66,Kirby,Series,HAL Laboratory,Nintendo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,01st Aug 92
+66,67,Counter-Strike: Global Offensive,PC,Valve Corporation,Valve,N/A,N/A,N/A,N/A,N/A,N/A,N/A,21st Aug 12
+67,68,Guitar Hero,Series,Harmonix,Activision,N/A,N/A,N/A,N/A,N/A,N/A,N/A,08th Nov 05
+68,69,Medal of Honor,Series,"2015, Inc.",Electronic Arts,N/A,N/A,N/A,N/A,N/A,N/A,N/A,31st Oct 99
+69,70,Mario Kart Wii    Read the review,Wii,Nintendo EAD,Nintendo,8.2,9.1,35.98m,15.91m,12.92m,3.80m,3.35m,27th Apr 08
+70,71,PLAYERUNKNOWN'S BATTLEGROUNDS,PC,PUBG Corporation,PUBG Corporation,N/A,N/A,N/A,N/A,N/A,N/A,N/A,21st Dec 17
+71,72,Mega Man,Series,Capcom,Capcom,N/A,N/A,N/A,N/A,N/A,N/A,N/A,17th Dec 87
+72,73,Red Dead Redemption 2,All,Rockstar Studios,Rockstar Games,N/A,N/A,N/A,N/A,N/A,N/A,N/A,26th Oct 18
+73,74,Tom Clancy's Rainbow Six,Series,Ubisoft,Red Storm Entertainment,N/A,N/A,N/A,N/A,N/A,N/A,N/A,21st Aug 98
+74,75,Total War,Series,Creative Assembly,Electronic Arts,N/A,N/A,N/A,N/A,N/A,N/A,N/A,13th Jun 00
+75,76,NBA Live,Series,EA Canada,EA Sports,N/A,N/A,N/A,N/A,N/A,N/A,N/A,01st Oct 94
+76,77,Terraria,Series,Re-Logic,505 Games,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16th May 11
+77,78,Terraria,All,Re-Logic,Re-Logic,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16th May 11
+78,79,Tom Clancy's Ghost Recon,Series,Red Storm Entertainment,Ubisoft,N/A,N/A,N/A,N/A,N/A,N/A,N/A,13th Nov 01
+79,80,The Witcher 3: Wild Hunt,All,CD Projekt Red Studio,Warner Bros. Interactive Entertainment,N/A,N/A,N/A,N/A,N/A,N/A,N/A,18th May 15
+80,81,BioShock,Series,Irrational Games,2K Games,N/A,N/A,N/A,N/A,N/A,N/A,N/A,21st Aug 07
+81,82,Brain Age,Series,Nintendo,Nintendo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16th Apr 06
+82,83,Mario Kart 8 Deluxe,NS,Nintendo EPD,Nintendo,9.3,N/A,13.05m,5.05m,4.98m,2.11m,0.91m,28th Apr 17
+83,84,Minecraft,PC,Mojang AB,Mojang,10.0,N/A,N/A,N/A,N/A,N/A,N/A,10th May 10
+84,85,Wii Sports Resort    Read the review,Wii,Nintendo EAD,Nintendo,8.0,8.8,32.90m,15.61m,10.99m,3.29m,3.02m,26th Jul 09
+85,86,Half-life,Series,Valve,Sierra Studios,N/A,N/A,N/A,N/A,N/A,N/A,N/A,19th Nov 98
+86,87,Spider-Man,Series,Parker Brothers,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+87,88,Kingdom Hearts,Series,Square,Square,N/A,N/A,N/A,N/A,N/A,N/A,N/A,17th Sep 02
+88,89,Saints Row,Series,Volition,THQ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,29th Aug 06
+89,90,Pokémon Red / Green / Blue Version,GB,Game Freak,Nintendo,9.4,N/A,31.37m,11.27m,8.89m,10.22m,1.00m,30th Sep 98
+90,91,Animal Crossing: New Horizons    Read the review,NS,Nintendo,Nintendo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,20th Mar 20
+91,92,Tony Hawk's,Series,Neversoft,Activision,N/A,N/A,N/A,N/A,N/A,N/A,N/A,29th Sep 99
+92,93,Tom Clancy's Splinter Cell,Series,Ubisoft,Ubisoft,N/A,N/A,N/A,N/A,N/A,N/A,N/A,17th Nov 02
+93,94,Age of Empires,Series,Ensemble Studios,Microsoft,N/A,N/A,N/A,N/A,N/A,N/A,N/A,15th Oct 97
+94,95,New Super Mario Bros.,DS,Nintendo EAD,Nintendo,9.1,8.1,29.85m,11.28m,9.19m,6.50m,2.89m,15th May 06
+95,96,New Super Mario Bros. Wii    Read the review,Wii,Nintendo EAD,Nintendo,8.6,9.2,28.51m,14.53m,7.01m,4.70m,2.27m,15th Nov 09
+96,97,Tetris,GB,Bullet Proof Software,Nintendo,N/A,N/A,30.26m,23.20m,2.26m,4.22m,0.58m,01st Jun 89
+97,98,Call of Duty: Modern Warfare,All,Infinity Ward,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+98,99,Command & Conquer,Series,Westwood Studios,Electronic Arts,N/A,N/A,N/A,N/A,N/A,N/A,N/A,26th Sep 95
+99,100,Diablo III,All,Blizzard Entertainment,Blizzard Entertainment,N/A,N/A,N/A,N/A,N/A,N/A,N/A,15th May 15
+100,101,James Bond,Series,Richard Shepherd Software,Parker Bros.,N/A,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83
+101,102,The Elder Scrolls V: Skyrim,All,Bethesda Game Studios,Bethesda Softworks,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10th Nov 11
+102,103,Wii Play,Series,Nintendo,Nintendo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,12th Feb 07
+103,104,Nintendogs,Series,Nintendo,Nintendo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,22nd Aug 05
+104,105,Duck Hunt,NES,Nintendo R&D1,Nintendo,N/A,N/A,28.31m,26.93m,0.63m,0.28m,0.47m,15th Oct 85
+105,106,Wii Play    Read the review,Wii,Nintendo EAD,Nintendo,5.9,4.5,28.92m,13.96m,9.18m,2.93m,2.85m,12th Feb 07
+106,107,Souls,Series,From Software,Atlus,N/A,N/A,N/A,N/A,N/A,N/A,N/A,06th Oct 09
+107,108,Grand Theft Auto: San Andreas,All,Rockstar North,Rockstar Games,N/A,N/A,N/A,N/A,N/A,N/A,N/A,26th Oct 04
+108,109,Portal,Series,Valve,Valve,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10th Oct 07
+109,110,FIFA 18,All,EA Vancouver,Electronic Arts,N/A,N/A,N/A,N/A,N/A,N/A,N/A,26th Sep 17
+110,111,Yoshi,Series,Nintendo,Nintendo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,01st Jun 92
+111,112,Ratchet & Clank,Series,Insomniac Games,Sony Computer Entertainment,N/A,N/A,N/A,N/A,N/A,N/A,N/A,04th Nov 02
+112,113,Rayman,Series,Ubisoft,Ubisoft,N/A,N/A,N/A,N/A,N/A,N/A,N/A,19th Sep 95
+113,114,Mario & Sonic at the Olympic Games,Series,Sega,Sega,N/A,N/A,N/A,N/A,N/A,N/A,N/A,06th Nov 07
+114,115,Call of Duty: Black Ops,All,Treyarch,Activision,N/A,N/A,N/A,N/A,N/A,N/A,N/A,09th Nov 10
+115,116,Farming Simulator,Series,Giants Software,Astragon,N/A,N/A,N/A,N/A,N/A,N/A,N/A,14th Apr 08
+116,117,Grand Theft Auto IV,All,Rockstar North,Rockstar Games,N/A,N/A,N/A,N/A,N/A,N/A,N/A,02nd Dec 08
+117,118,Human: Fall Flat,All,No Brakes Games,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+118,119,Puyo Puyo,Series,Compile,THQ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,11th Feb 02
+119,120,Tiger Woods PGA Tour,Series,EA Redwood Shores,EA Sports,N/A,N/A,N/A,N/A,N/A,N/A,N/A,31st Aug 98
+120,121,Batman: Arkham,Series,Rocksteady Studios,Warner Bros. Interactive Entertainment,N/A,N/A,N/A,N/A,N/A,N/A,N/A,25th Aug 09
+121,122,Tales of,Series,Bandai Namco Studios,Namco,N/A,N/A,N/A,N/A,N/A,N/A,N/A,30th Sep 98
+122,123,Kinect Adventures!    Read the review,X360,Good Science Studio,Microsoft Game Studios,6.7,N/A,22.10m,15.09m,4.97m,0.24m,1.81m,04th Nov 10
+123,124,Petz,Series,PF Magic,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+124,125,The Last of Us,Series,Naughty Dog,Sony Computer Entertainment,N/A,N/A,N/A,N/A,N/A,N/A,N/A,14th Jun 13
+125,126,Nintendogs,DS,Nintendo EAD,Nintendo,8.4,N/A,24.68m,9.05m,10.96m,1.93m,2.74m,23rd Aug 05
+126,127,Mario Kart DS,DS,Nintendo EAD,Nintendo,9.1,9.4,23.26m,9.71m,7.51m,4.13m,1.91m,14th Nov 05
+127,128,Jikkyo Powerful Pro Yakyu,Series,Konami,Konami,N/A,N/A,N/A,N/A,N/A,N/A,N/A,11th Mar 94
+128,129,Pokémon Gold / Silver Version,GB,Game Freak,Nintendo,9.2,N/A,23.10m,9.00m,6.18m,7.20m,0.71m,14th Oct 00
+129,130,Devil May Cry,Series,Capcom,Capcom,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16th Oct 01
+130,131,Football Manager,Series,Sports Interactive,Sega,N/A,N/A,N/A,N/A,N/A,N/A,N/A,05th Nov 04
+131,132,Gears of War,Series,Epic Games,Microsoft Game Studios,N/A,N/A,N/A,N/A,N/A,N/A,N/A,07th Nov 06
+132,133,Super Smash Bros. Ultimate    Read the review,NS,Bandai Namco Games,Nintendo,9.4,9.7,8.95m,4.22m,1.72m,2.41m,0.61m,07th Dec 18
+133,134,Wii Fit    Read the review,Wii,Nintendo EAD,Nintendo,7.9,N/A,22.70m,8.92m,8.03m,3.60m,2.15m,21st May 08
+134,135,Borderlands 2,All,Gearbox Software,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+135,136,Call of Duty: Modern Warfare 2,All,Infinity Ward,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+136,137,Yu-Gi-Oh!,Series,Konami,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+137,138,Castlevania,Series,Konami,Konami,N/A,N/A,N/A,N/A,N/A,N/A,N/A,26th Sep 86
+138,139,The Legend of Zelda: Breath of the Wild,NS,Nintendo EPD,Nintendo,9.9,10.0,9.46m,4.54m,2.94m,1.26m,0.73m,03rd Mar 17
+139,140,Wii Fit Plus,Wii,Nintendo EAD,Nintendo,8.0,N/A,21.81m,9.01m,8.51m,2.53m,1.76m,04th Oct 09
+140,141,Dynasty Warriors,Series,Omega Force,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+141,142,Imagine,Series,Ubisoft,Ubisoft,N/A,N/A,N/A,N/A,N/A,N/A,N/A,01st Oct 07
+142,143,Super Mario World,SNES,Nintendo EAD,Nintendo,8.5,N/A,20.61m,12.78m,3.75m,3.54m,0.55m,13th Aug 91
+143,144,Pokémon Sword / Shield    Read the review,NS,Game Freak,Nintendo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,15th Nov 19
+144,145,Grand Theft Auto V,PS3,Rockstar North,Rockstar Games,9.4,N/A,20.32m,6.37m,9.85m,0.99m,3.12m,17th Sep 13
+145,146,Super Mario Odyssey    Read the review,NS,Nintendo EPD,Nintendo,9.9,N/A,11.71m,5.10m,3.75m,2.02m,0.84m,27th Oct 17
+146,147,Fallout 4,All,Bethesda Game Studios,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+147,148,FIFA 19,All,EA Vancouver,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+148,149,Frogger,Series,Konami,Konami,N/A,N/A,N/A,N/A,N/A,N/A,N/A,23rd Oct 81
+149,150,Gundam,Series,Banpresto,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+150,151,Lemmings,Series,DMA Design,Psygnosis,N/A,N/A,N/A,N/A,N/A,N/A,N/A,14th Feb 91
+151,152,Marvel's Spider-Man    Read the review,PS4,Insomniac Games,Sony Interactive Entertainment,9.1,N/A,8.76m,3.64m,3.39m,0.32m,1.41m,07th Sep 18
+152,153,Naruto: Ultimate Ninja,Series,CyberConnect2,Bandai Namco Entertainment,N/A,N/A,N/A,N/A,N/A,N/A,N/A,26th Jun 06
+153,154,Prince of Persia,Series,Broderbund,Broderbund,N/A,N/A,N/A,N/A,N/A,N/A,N/A,03rd Aug 89
+154,155,Rayman Raving Rabbids,Series,Ubisoft,Ubisoft,N/A,N/A,N/A,N/A,N/A,N/A,N/A,19th Nov 06
+155,156,SimCity,Series,Maxis,Maxis,N/A,N/A,N/A,N/A,N/A,N/A,N/A,02nd Feb 89
+156,157,Simple,Series,Bandai Namco Studios,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+157,158,SingStar,Series,London Studios,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+158,159,Sniper Elite,Series,Rebellion Developments,Namco,N/A,N/A,N/A,N/A,N/A,N/A,N/A,18th Oct 05
+159,160,SpongeBob SquarePants,Series,Vicarious Visions,THQ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,15th Mar 01
+160,161,Spyro,Series,Insomniac Games,Sony Computer Entertainment,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10th Sep 98
+161,162,Tom Clancy's The Division,Series,Massive Entertainment,Ubisoft,N/A,N/A,N/A,N/A,N/A,N/A,N/A,08th Mar 16
+162,163,Watch Dogs,Series,Ubisoft,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+163,164,Grand Theft Auto V,PS4,Rockstar North,Rockstar Games,9.7,N/A,19.39m,6.06m,9.71m,0.60m,3.02m,18th Nov 14
+164,165,StarCraft,Series,Blizzard Entertainment,Blizzard Entertainment,N/A,N/A,N/A,N/A,N/A,N/A,N/A,31st Mar 98
+165,166,Super Robot Wars,Series,Banpresto,Bandai,N/A,N/A,N/A,N/A,N/A,N/A,N/A,20th Apr 91
+166,167,Teenage Mutant Ninja Turtles,Series,Konami,Konami,N/A,N/A,N/A,N/A,N/A,N/A,N/A,12th May 89
+167,168,Brain Age: Train Your Brain in Minutes a Day,DS,Nintendo SDD,Nintendo,8.1,N/A,20.16m,4.74m,9.21m,4.16m,2.04m,17th Apr 06
+168,169,Call of Duty: Ghosts,All,Infinity Ward,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+169,170,Driver,Series,Ubisoft Reflections,GT Interactive,N/A,N/A,N/A,N/A,N/A,N/A,N/A,30th Jun 99
+170,171,WarCraft,Series,Blizzard Entertainment,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+171,172,Mario Kart 7,3DS,Nintendo EAD / Retro Studios,Nintendo,8.2,N/A,15.49m,6.03m,5.35m,3.00m,1.11m,04th Dec 11
+172,173,Luigi's Mansion,Series,Nintendo,Nintendo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,18th Nov 01
+173,174,Midnight Club,Series,Rockstar San Diego,Rockstar Games,N/A,N/A,N/A,N/A,N/A,N/A,N/A,26th Oct 00
+174,175,Super Mario Land,GB,Nintendo R&D1,Nintendo,N/A,N/A,18.14m,10.83m,2.71m,4.18m,0.42m,01st Aug 89
+175,176,Pokémon Diamond / Pearl Version,DS,Game Freak,Nintendo,8.6,N/A,18.25m,6.38m,4.47m,6.04m,1.36m,28th Apr 07
+176,177,Grand Theft Auto: Vice City,All,Rockstar North,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+177,178,Grand Theft Auto: San Andreas,PS2,Rockstar North,Rockstar Games,9.5,N/A,20.81m,9.43m,0.40m,0.41m,10.57m,26th Oct 04
+178,179,Super Mario Bros. 3,NES,Nintendo R&D2,Nintendo,N/A,N/A,17.28m,9.54m,3.44m,3.84m,0.46m,12th Feb 90
+179,180,RollerCoaster Tycoon,Series,Chris Sawyer Productions,Hasbro Interactive,N/A,N/A,N/A,N/A,N/A,N/A,N/A,22nd Mar 99
+180,181,Terraria,PC,Re-Logic,Unknown,8.8,N/A,0.14m,N/A,0.13m,N/A,0.01m,16th May 11
+181,182,The Lord of the Rings,Series,Beam Software,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+182,183,Professor Layton,Series,Level-5,Nintendo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10th Feb 08
+183,184,Zuma,Series,Oberon Media,PopCap Games,N/A,N/A,N/A,N/A,N/A,N/A,N/A,12th Dec 03
+184,185,Zuma,All,Oberon Media,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+185,186,Garry's Mod,PC,Facepunch Studios,Valve,N/A,N/A,N/A,N/A,N/A,N/A,N/A,29th Nov 06
+186,187,Splatoon,Series,Nintendo,Nintendo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,29th May 15
+187,188,Monster Hunter: World,All,Capcom,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+188,189,Hitman,Series,IO Interactive,Eidos Interactive,N/A,N/A,N/A,N/A,N/A,N/A,N/A,21st Nov 00
+189,190,Ace Combat,Series,Namco,Namco,N/A,N/A,N/A,N/A,N/A,N/A,N/A,09th Sep 95
+190,191,Pokemon Mystery Dungeon,Series,Chunsoft,Nintendo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,18th Sep 06
+191,192,Pokémon X/Y,3DS,Game Freak,Nintendo,8.9,9.7,16.13m,5.68m,5.06m,4.40m,0.99m,12th Oct 13
+192,193,Uncharted 4: A Thief's End,PS4,Naughty Dog,Sony Interactive Entertainment,9.2,N/A,10.33m,4.49m,3.93m,0.21m,1.70m,10th May 16
+193,194,Pokémon Ruby / Sapphire Version,GBA,Game Freak,Nintendo,8.8,N/A,15.85m,6.06m,3.90m,5.38m,0.50m,17th Mar 03
+194,195,Pokémon Sun/Moon,3DS,Game Freak,Nintendo,9.0,N/A,15.17m,6.02m,4.34m,3.82m,0.99m,18th Nov 16
+195,196,Grand Theft Auto: Vice City,PS2,Rockstar North,Rockstar Games,9.6,N/A,16.15m,8.41m,5.49m,0.47m,1.78m,28th Oct 02
+196,197,FIFA 11,All,EA Canada,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+197,198,Mass Effect,Series,BioWare,Microsoft Game Studios,N/A,N/A,N/A,N/A,N/A,N/A,N/A,20th Nov 07
+198,199,Need for Speed: Most Wanted,All,EA Canada,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+199,200,The Sims,All,Maxis,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+200,201,Final Fantasy X/X-2,All,Square,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+201,202,The Witcher 3: Wild Hunt,PC,CD Projekt Red Studio,Warner Bros. Interactive Entertainment,N/A,N/A,0.91m,0.29m,0.55m,N/A,0.07m,19th May 15
+202,203,Grand Theft Auto V,X360,Rockstar North,Rockstar Games,N/A,N/A,15.86m,9.06m,5.33m,0.06m,1.42m,17th Sep 13
+203,204,Naruto: Ultimate Ninja Storm,Series,CyberConnect2,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+204,205,Pokémon Black / White Version,DS,Game Freak,Nintendo,8.6,9.0,15.18m,5.51m,3.20m,5.66m,0.80m,06th Mar 11
+205,206,Mario Tennis,Series,Nintendo,Nintendo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,14th Aug 95
+206,207,Call of Duty: Black Ops 3,PS4,Treyarch,Activision,N/A,N/A,15.09m,6.18m,6.05m,0.41m,2.44m,06th Nov 15
+207,208,Counter-Strike: Source,PC,Valve Software,VU Games,9.3,N/A,0.08m,N/A,0.07m,N/A,0.01m,16th Nov 04
+208,209,Backyard Sports,Series,Humongous Entertainment,Humongous Entertainment,N/A,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 97
+209,210,Barbie,Series,Imagineering,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+210,211,Battlefield 3,All,EA DICE,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+211,212,Burnout,Series,Criterion Games,Acclaim Entertainment,N/A,N/A,N/A,N/A,N/A,N/A,N/A,01st Nov 01
+212,213,Famista,Series,Namco,Namco,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10th Dec 86
+213,214,Gex,Series,Crystal Dynamics,BMG Interactive Entertainment,N/A,N/A,N/A,N/A,N/A,N/A,N/A,01st Apr 95
+214,215,Just Cause,Series,Avalanche Studios,Eidos Interactive,N/A,N/A,N/A,N/A,N/A,N/A,N/A,27th Sep 06
+215,216,Need for Speed: Underground,All,EA Black Box,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+216,217,Red Dead Redemption,All,Rockstar San Diego,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+217,218,Sonic the Hedgehog,GEN,Sonic Team,Sega,N/A,N/A,4.34m,3.03m,0.91m,0.26m,0.13m,23rd Jun 91
+218,219,SoulCalibur,Series,Project Soul,Namco,N/A,N/A,N/A,N/A,N/A,N/A,N/A,20th Dec 96
+219,220,The Elder Scrolls Online,All,ZeniMax Online Studios,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+220,221,Gran Turismo 3: A-Spec,PS2,Polyphony Digital,Sony Computer Entertainment,9.3,N/A,14.98m,6.85m,5.09m,1.87m,1.16m,09th Jul 01
+221,222,Brain Age 2: More Training in Minutes a Day,DS,Nintendo SDD,Nintendo,8.0,N/A,15.29m,3.43m,5.36m,5.32m,1.18m,20th Aug 07
+222,223,Call of Duty: Modern Warfare 3,X360,Infinity Ward,Activision,8.7,N/A,14.82m,9.07m,4.29m,0.13m,1.33m,08th Nov 11
+223,224,Call of Duty: Black Ops,X360,Treyarch,Activision,8.8,N/A,14.74m,9.76m,3.73m,0.11m,1.14m,09th Nov 10
+224,225,Pokémon Yellow: Special Pikachu Edition,GB,Game Freak,Nintendo,8.7,N/A,14.64m,5.89m,5.04m,3.12m,0.59m,19th Oct 99
+225,226,FIFA 13,All,EA Canada,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+226,227,Grand Theft Auto III,All,Rockstar North,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+227,228,Halo 3    Read the review,X360,Bungie Studios,Microsoft Game Studios,9.6,9.5,12.13m,7.97m,2.81m,0.13m,1.21m,25th Sep 07
+228,229,Momotaro Dentetsu,Series,Hudson Soft,Hudson Soft,N/A,N/A,N/A,N/A,N/A,N/A,N/A,02nd Dec 88
+229,230,Pokémon Omega Ruby/Pokémon Alpha Sapphire,3DS,Game Freak,Nintendo,N/A,N/A,12.73m,4.78m,3.98m,3.15m,0.82m,21st Nov 14
+230,231,Everybody's Golf,Series,Camelot Software,Sony Computer Entertainment,N/A,N/A,N/A,N/A,N/A,N/A,N/A,30th Apr 98
+231,232,Dead Island,Series,Techland,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+232,233,Dead Rising,Series,Capcom,Capcom,N/A,N/A,N/A,N/A,N/A,N/A,N/A,08th Aug 06
+233,234,Mafia,Series,Illusion Softworks,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+234,235,NBA 2K20,All,Visual Concepts,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+235,236,Star Wars Battlefront (2015),All,EA DICE,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+236,237,Yakuza,Series,Sega,Sega,N/A,N/A,N/A,N/A,N/A,N/A,N/A,05th Sep 06
+237,238,Yo-kai Watch,Series,Level 5,Nintendo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,06th Nov 15
+238,239,Portal,All,Valve,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+239,240,Red Dead Redemption 2    Read the review,PS4,Rockstar Games,Rockstar Games,9.8,N/A,13.94m,5.26m,6.21m,0.21m,2.26m,26th Oct 18
+240,241,Metroid,Series,Nintendo,Nintendo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,15th Aug 87
+241,242,Call of Duty: Black Ops II,X360,Treyarch,Activision,N/A,N/A,13.86m,8.27m,4.32m,0.07m,1.20m,13th Nov 12
+242,243,Persona,Series,Atlus,Atlus,N/A,N/A,N/A,N/A,N/A,N/A,N/A,01st Nov 96
+243,244,Super Mario Party    Read the review,NS,"Nd Cube Co., Ltd.",Nintendo,7.3,N/A,4.97m,2.12m,1.64m,0.85m,0.36m,05th Oct 18
+244,245,Call of Duty: Black Ops II,PS3,Treyarch,Activision,N/A,N/A,13.80m,4.99m,5.88m,0.65m,2.28m,13th Nov 12
+245,246,Cyberpunk 2077,All,CD Projekt Red Studio,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+246,247,Call of Duty: Modern Warfare 2    Read the review,X360,Infinity Ward,Activision,9.5,9.0,13.53m,8.54m,3.63m,0.08m,1.28m,10th Nov 09
+247,248,Guild Wars,Series,ArenaNet,NCSoft,N/A,N/A,N/A,N/A,N/A,N/A,N/A,26th Apr 05
+248,249,Call of Duty: WWII    Read the review,PS4,Sledgehammer Games,Activision,8.0,N/A,13.40m,4.67m,6.21m,0.40m,2.12m,03rd Nov 17
+249,250,New Super Mario Bros. 2,3DS,Nintendo,Nintendo,7.5,N/A,11.33m,3.95m,4.07m,2.59m,0.72m,19th Aug 12
+250,251,Call of Duty: Modern Warfare 3,PS3,Infinity Ward,Activision,8.8,N/A,13.35m,5.54m,5.78m,0.49m,1.54m,08th Nov 11
+251,252,Super Smash Bros. Brawl    Read the review,Wii,Project Sora,Nintendo,9.2,9.7,12.91m,6.64m,2.57m,2.67m,1.03m,09th Mar 08
+252,253,Grand Theft Auto III,PS2,DMA Design,Rockstar Games,9.5,N/A,13.10m,6.99m,4.51m,0.30m,1.30m,23rd Oct 01
+253,254,Portal 2,PC,Valve Software,Valve,9.7,N/A,0.75m,0.33m,0.33m,N/A,0.10m,19th Apr 11
+254,255,Paper Mario,Series,Intelligent Systems,Nintendo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,05th Feb 01
+255,256,ARMA,Series,Bohemia Interactive,505 Games,N/A,N/A,N/A,N/A,N/A,N/A,N/A,04th May 07
+256,257,Call of Duty 4: Modern Warfare,All,Infinity Ward,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+257,258,Minecraft,X360,Mojang,Microsoft Studios,N/A,N/A,9.82m,5.96m,2.94m,0.02m,0.90m,04th Jun 13
+258,259,"Pokémon: Let's Go, Pikachu/Eevee",NS,Game Freak,Nintendo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16th Nov 18
+259,260,Scribblenauts,Series,5th Cell,Warner Bros. Interactive Entertainment,N/A,N/A,N/A,N/A,N/A,N/A,N/A,15th Sep 09
+260,261,Animal Crossing: New Leaf,3DS,Nintendo EAD,Nintendo,8.6,N/A,10.90m,2.46m,3.06m,4.90m,0.48m,09th Jun 13
+261,262,Super Mario Galaxy    Read the review,Wii,Nintendo EAD Tokyo,Nintendo,9.7,9.6,11.40m,6.06m,3.38m,1.20m,0.76m,12th Nov 07
+262,263,Super Mario 3D Land,3DS,Nintendo EAD Tokyo,Nintendo,8.9,N/A,11.56m,5.10m,3.46m,2.15m,0.85m,13th Nov 11
+263,264,Pokémon Heart Gold / Soul Silver Version    Read the review,DS,Game Freak,Nintendo,8.6,N/A,11.78m,4.34m,2.72m,3.96m,0.76m,14th Mar 10
+264,265,Call of Duty: Black Ops,PS3,Treyarch,Activision,8.7,N/A,12.67m,6.01m,4.40m,0.48m,1.78m,09th Nov 10
+265,266,Grand Theft Auto V,PC,Rockstar North,Rockstar Games,N/A,N/A,1.33m,0.48m,0.76m,N/A,0.10m,14th Apr 15
+266,267,Final Fantasy VII,All,Square,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+267,268,Fable,Series,Big Blue Box,Microsoft Game Studios,N/A,N/A,N/A,N/A,N/A,N/A,N/A,14th Sep 04
+268,269,Batman: Arkham City,All,Rocksteady Studios,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+269,270,Myst,Series,"Cyan, Inc.",Broderbund,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24th Sep 93
+270,271,The Witcher 3: Wild Hunt,PS4,CD Projekt Red Studio,Warner Bros. Interactive Entertainment,N/A,N/A,5.39m,1.48m,2.82m,0.28m,0.81m,19th May 15
+271,272,Metro,Series,4a-games,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+272,273,Mario & Luigi,Series,AlphaDream,Nintendo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,17th Nov 03
+273,274,Wario,Series,Nintendo,Nintendo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,13th Mar 94
+274,275,Resident Evil 5,All,Capcom,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+275,276,Assassin's Creed III,All,Ubisoft Montreal,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+276,277,Bomberman,Series,Hudson Soft,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+277,278,Borderlands 3,All,Gearbox Software,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+278,279,Cooking Mama,Series,Cooking Mama Limited,Majesco Entertainment,N/A,N/A,N/A,N/A,N/A,N/A,N/A,12th Sep 06
+279,280,Diablo III    Read the review,PC,Blizzard Entertainment,Blizzard Entertainment,9.0,N/A,5.26m,2.50m,2.23m,N/A,0.53m,15th May 12
+280,281,Half-Life 2,PC,Valve Software,VU Games,9.7,N/A,2.37m,2.28m,0.02m,0.08m,N/A,16th Nov 04
+281,282,Jak and Daxter,Series,Naughty Dog,Sony Computer Entertainment,N/A,N/A,N/A,N/A,N/A,N/A,N/A,03rd Dec 01
+282,283,Left 4 Dead,Series,Valve,Valve,N/A,N/A,N/A,N/A,N/A,N/A,N/A,17th Nov 08
+283,284,NBA 2K19,All,Visual Concepts,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+284,285,Pokémon FireRed / LeafGreen Version,GBA,Game Freak,Nintendo,8.3,N/A,10.49m,4.34m,2.65m,3.15m,0.35m,07th Sep 04
+285,286,SOCOM,Series,Zipper Interactive,Sony Computer Entertainment,N/A,N/A,N/A,N/A,N/A,N/A,N/A,27th Aug 02
+286,287,World of Warcraft,PC,Blizzard Entertainment,Blizzard Entertainment,9.2,8.0,6.35m,0.12m,6.24m,N/A,N/A,23rd Nov 04
+287,288,Gran Turismo 5,PS3,Polyphony Digital,Sony Computer Entertainment,8.3,N/A,10.75m,2.96m,4.87m,0.81m,2.10m,24th Nov 10
+288,289,Super Mario 64,N64,Nintendo EAD,Nintendo,9.7,9.2,11.89m,6.91m,2.85m,1.91m,0.23m,26th Sep 96
+289,290,Splatoon 2,NS,Nintendo EPD,Nintendo,8.2,N/A,7.04m,1.90m,1.80m,3.01m,0.34m,21st Jul 17
+290,291,FIFA 18,PS4,EA Vancouver,EA Sports,8.3,N/A,11.80m,1.27m,8.64m,0.15m,1.73m,29th Sep 17
+291,292,The Last of Us Remastered,PS4,Naughty Dog,Sony Computer Entertainment,9.5,N/A,6.77m,2.70m,2.86m,0.11m,1.10m,29th Jul 14
+292,293,Gran Turismo 4,PS2,Polyphony Digital,Sony Computer Entertainment,8.7,N/A,11.66m,3.01m,0.01m,1.10m,7.53m,22nd Feb 05
+293,294,Animal Crossing: Wild World,DS,Nintendo EAD,Nintendo,8.5,N/A,12.14m,2.50m,3.46m,5.33m,0.86m,05th Dec 05
+294,295,The Room,Series,Fireproof Games,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+295,296,Max Payne,Series,Remedy Entertainment,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+296,297,Dragon Age,Series,BioWare,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+297,298,Super Mario Land 2: 6 Golden Coins,GB,Nintendo R&D1,Nintendo,9.0,N/A,11.18m,6.16m,2.04m,2.69m,0.29m,02nd Nov 92
+298,299,Wii Party,Series,NDcube,Nintendo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,03rd Oct 10
+299,300,Grand Theft Auto IV    Read the review,X360,Rockstar North,Rockstar Games,10.0,N/A,11.09m,6.80m,3.11m,0.14m,1.04m,29th Apr 08
+300,301,Super Mario 64 DS,DS,Nintendo EAD,Nintendo,8.6,N/A,1.26m,0.01m,0.00m,1.25m,N/A,20th Nov 04
+301,302,Dragon Ball Xenoverse,Series,Dimps Corporation,Bandai Namco Games,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24th Feb 15
+302,303,Assassin's Creed IV: Black Flag,All,Ubisoft Montreal,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+303,304,BioShock Infinite,All,Irrational Games,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+304,305,Call of Duty: World at War,All,Treyarch,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+305,306,Dance Dance Revolution,Series,Konami,Konami,N/A,N/A,N/A,N/A,N/A,N/A,N/A,26th Sep 98
+306,307,Fall Guys: Ultimate Knockout,PC,Mediatonic,Devolver Digital,N/A,N/A,N/A,N/A,N/A,N/A,N/A,04th Aug 20
+307,308,God of War (2018)    Read the review,PS4,SIE Santa Monica Studio,Sony Interactive Entertainment,9.7,10.0,6.15m,2.83m,2.17m,0.13m,1.02m,20th Apr 18
+308,309,Mortal Kombat X,All,NetherRealm Studios,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+309,310,Need for Speed: Underground 2,All,EA Black Box,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+310,311,Sniper: Ghost Warrior,Series,CI Games,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+311,312,StarCraft,PC,Blizzard Entertainment,Blizzard Entertainment,8.7,N/A,0.05m,0.00m,0.04m,N/A,0.01m,01st Apr 98
+312,313,Tomb Raider (2013),All,Crystal Dynamics,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+313,314,FIFA 17,PS4,EA Canada,Electronic Arts,8.9,N/A,10.94m,1.26m,7.95m,0.12m,1.61m,27th Sep 16
+314,315,Gran Turismo,PS,Polyphony Digital,Sony Computer Entertainment,9.5,N/A,10.95m,4.02m,3.87m,2.54m,0.52m,30th Apr 98
+315,316,Call of Duty: Modern Warfare 2    Read the review,PS3,Infinity Ward,Activision,9.5,N/A,10.61m,4.99m,3.66m,0.38m,1.59m,10th Nov 09
+316,317,Resident Evil 4,All,Capcom,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+317,318,Grand Theft Auto IV    Read the review,PS3,Rockstar North,Rockstar Games,10.0,9.0,10.57m,4.79m,3.73m,0.44m,1.62m,29th Apr 08
+318,319,Super Mario All-Stars,SNES,Nintendo EAD,Nintendo,N/A,9.5,10.55m,5.99m,2.15m,2.12m,0.29m,01st Aug 93
+319,320,Rocket League,Series,Psyonix,Psyonix,N/A,N/A,N/A,N/A,N/A,N/A,N/A,07th Jul 15
+320,321,Rocket League,All,Psyonix,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+321,322,Call of Duty: Ghosts,X360,Infinity Ward,Activision,6.9,N/A,10.41m,6.76m,2.64m,0.04m,0.98m,05th Nov 13
+322,323,Tomodachi,Series,Nintendo,Nintendo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,06th Jun 14
+323,324,Star Fox,Series,Nintendo,Nintendo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,26th Mar 93
+324,325,Just Dance 3,Wii,Ubisoft Paris,Ubisoft,7.5,N/A,10.14m,5.95m,3.13m,N/A,1.06m,07th Oct 11
+325,326,Call of Duty: Ghosts,PS3,Infinity Ward,Activision,7.5,N/A,10.13m,4.11m,4.01m,0.39m,1.62m,05th Nov 13
+326,327,SaGa,Series,Square,Sunsoft,N/A,N/A,N/A,N/A,N/A,N/A,N/A,30th Sep 90
+327,328,Resident Evil 6,All,Capcom,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+328,329,Assassin's Creed Odyssey,All,Ubisoft Quebec,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+329,330,Assassin's Creed Origins,All,Ubisoft Montreal,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+330,331,Assassin's Creed Unity,All,Ubisoft Montreal,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+331,332,Broken Sword,Series,Revolution Software,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+332,333,Buzz!,Series,Relentless Software,Sony Computer Entertainment Europe,N/A,N/A,N/A,N/A,N/A,N/A,N/A,21st Oct 05
+333,334,Crash Bandicoot N. Sane Trilogy,All,Vicarious Visions,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+334,335,Dark Souls III,All,From Software,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+335,336,Far Cry 3,All,Ubisoft Montreal,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+336,337,Far Cry 4,All,Ubisoft Montreal,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+337,338,Far Cry 5,All,Ubisoft,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+338,339,FIFA 10,All,EA Canada,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+339,340,FIFA 12,All,EA Canada,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+340,341,Horizon,Series,Guerrilla Games,Sony Interactive Entertainment,N/A,N/A,N/A,N/A,N/A,N/A,N/A,28th Feb 17
+341,342,Horizon: Zero Dawn,PS4,Guerrilla Games,Sony Interactive Entertainment,9.1,8.0,5.82m,2.20m,2.43m,0.28m,0.92m,28th Feb 17
+342,343,Killing Floor,Series,Tripwire Interactive,Tripwire Interactive,N/A,N/A,N/A,N/A,N/A,N/A,N/A,14th May 09
+343,344,Mario & Sonic at the Olympic Games,All,Sega Sports R&D,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+344,345,MX vs. ATV,Series,Rainbow Studios,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+345,346,NBA 2K18,All,Visual Concepts,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+346,347,Nobunaga's Ambition,Series,Koei,KOEI,N/A,N/A,N/A,N/A,N/A,N/A,N/A,01st Mar 83
+347,348,Pitfall,Series,Activision,Activision,N/A,N/A,N/A,N/A,N/A,N/A,N/A,20th Apr 82
+348,349,RollerCoaster Tycoon 3,PC,Frontier Developments,Atari,8.3,N/A,0.26m,0.01m,0.22m,N/A,0.02m,26th Oct 04
+349,350,Star Wars Jedi: Fallen Order,All,Respawn Entertainment,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+350,351,Stardew Valley,Series,ConcernedApe,Chucklefish,N/A,N/A,N/A,N/A,N/A,N/A,N/A,26th Feb 16
+351,352,Stardew Valley,All,ConcernedApe,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+352,353,Taiko no Tatsujin,Series,Bandai Namco Studios,Namco,N/A,N/A,N/A,N/A,N/A,N/A,N/A,26th Oct 04
+353,354,The Settlers,Series,Blue Byte,Blue Byte,N/A,N/A,N/A,N/A,N/A,N/A,N/A,30th Jun 93
+354,355,The Sims 3,All,Maxis,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+355,356,Titanfall,All,Respawn Entertainment,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+356,357,Tom Clancy's Ghost Recon Wildlands,All,Ubisoft Paris,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+357,358,Tom Clancy's Rainbow Six Siege,All,Ubisoft Montreal,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+358,359,Tom Clancy's The Division,All,Massive Entertainment,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+359,360,Tom Clancy's The Division 2,All,Massive Entertainment,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+360,361,Watch Dogs,All,Ubisoft Montreal,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+361,362,Watch Dogs 2,All,Ubisoft Montreal,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+362,363,Halo: Reach,X360,Bungie,Microsoft Game Studios,9.3,N/A,9.97m,7.08m,2.01m,0.08m,0.80m,14th Sep 10
+363,364,Portal,PC,Valve Software,Valve Corporation,9.0,N/A,0.01m,N/A,0.00m,N/A,0.00m,09th Apr 08
+364,365,Halo 4,X360,343 Industries,Microsoft Studios,N/A,N/A,9.96m,6.72m,2.36m,0.04m,0.83m,06th Nov 12
+365,366,The Binding of Isaac,Series,Edmund McMillen,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+366,367,Final Fantasy VII,PS,SquareSoft,Sony Computer Entertainment,9.6,9.5,9.72m,3.01m,2.47m,3.28m,0.96m,03rd Sep 97
+367,368,Mario Golf,Series,Nintendo,Nintendo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,29th Sep 91
+368,369,Mario Kart 64,N64,Nintendo EAD,Nintendo,8.5,N/A,9.87m,5.55m,1.94m,2.23m,0.15m,10th Feb 97
+369,370,New Super Mario Bros. U Deluxe,NS,Nintendo EPD,Nintendo,N/A,6.6,N/A,N/A,N/A,N/A,N/A,11th Jan 19
+370,371,Marvel vs. Capcom,Series,Capcom,Capcom,N/A,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 96
+371,372,Dead or Alive,Series,Team Ninja,Tecmo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,31st Mar 98
+372,373,Super Smash Bros. for 3DS,3DS,Bandai Namco Games,Nintendo,8.4,N/A,8.32m,3.73m,1.50m,2.55m,0.54m,03rd Oct 14
+373,374,Final Fantasy VIII,All,Square,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+374,375,Carnival Games,Series,Cat Daddy Games,Global Star Software,N/A,N/A,N/A,N/A,N/A,N/A,N/A,27th Aug 07
+375,376,Big Brain Academy,Series,Nintendo,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+376,377,Call of Duty 4: Modern Warfare,X360,Infinity Ward,Activision,9.6,9.0,9.41m,5.98m,2.39m,0.13m,0.91m,05th Nov 07
+377,378,Gran Turismo 2,PS,Polyphony Digital,Sony Computer Entertainment,9.2,N/A,9.49m,3.88m,3.42m,1.69m,0.50m,17th Jan 99
+378,379,Wii Party,Wii,"Nd Cube Co., Ltd.",Nintendo,7.0,N/A,8.41m,1.75m,3.51m,2.49m,0.66m,03rd Oct 10
+379,380,Call of Duty: Black Ops IIII,PS4,Treyarch,Activision,N/A,N/A,9.32m,4.05m,3.28m,0.50m,1.49m,12th Oct 18
+380,381,Mario Party DS,DS,Hudson Soft,Nintendo,7.1,N/A,8.93m,4.40m,1.86m,1.98m,0.69m,19th Nov 07
+381,382,Donkey Kong Country,SNES,Rare Ltd.,Nintendo,9.0,N/A,9.30m,4.36m,1.71m,3.00m,0.23m,21st Nov 94
+382,383,Half-Life,PC,Valve Software,Sierra Entertainment,9.5,N/A,4.12m,4.03m,0.00m,0.09m,N/A,19th Nov 98
+383,384,Uncharted 3: Drake's Deception,PS3,Naughty Dog,Sony Computer Entertainment,9.3,6.3,6.84m,2.77m,2.81m,0.19m,1.06m,01st Nov 11
+384,385,Street Fighter IV,All,Capcom / Dimps Corporation,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+385,386,FIFA 19,PS4,EA Sports,Electronic Arts,N/A,N/A,9.15m,0.84m,6.87m,0.10m,1.34m,28th Sep 18
+386,387,Luigi's Mansion 3    Read the review,NS,"Next Level Games, Inc.",Nintendo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,31st Oct 19
+387,388,Rust,PC,Facepunch Studios,Facepunch Studios,6.1,N/A,N/A,N/A,N/A,N/A,N/A,08th Feb 18
+388,389,Assassin's Creed II,All,Ubisoft Montreal,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+389,390,Battlefield: Bad Company 2,All,EA DICE,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+390,391,Payday,Series,Overkill Software,Daybreak Games,N/A,N/A,N/A,N/A,N/A,N/A,N/A,18th Oct 11
+391,392,Silent Hill,Series,Konami Computer Entertainment Tokyo,Konami,N/A,N/A,N/A,N/A,N/A,N/A,N/A,23rd Feb 99
+392,393,Star Wars Battlefront II (2017),All,EA DICE,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+393,394,The Experience,Series,Ubisoft,Ubisoft,N/A,N/A,N/A,N/A,N/A,N/A,N/A,06th Nov 10
+394,395,Final Fantasy XV,All,Square Enix,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+395,396,Pokémon: Ultra Sun and Ultra Moon,3DS,Game Freak,Nintendo,8.1,N/A,7.15m,2.46m,1.74m,2.55m,0.40m,17th Nov 17
+396,397,The Elder Scrolls V: Skyrim,X360,Bethesda Game Studios,Bethesda Softworks,9.3,N/A,8.88m,5.10m,2.83m,0.10m,0.85m,11th Nov 11
+397,398,Mario Party 8,Wii,Hudson Soft,Nintendo,6.5,N/A,8.30m,3.74m,2.27m,1.58m,0.70m,29th May 07
+398,399,Super Mario Kart,SNES,Nintendo EAD,Nintendo,10.0,N/A,8.76m,3.54m,1.24m,3.81m,0.18m,01st Sep 92
+399,400,Grand Theft Auto V,XOne,Rockstar North,Rockstar Games,9.0,9.0,8.72m,4.70m,3.25m,0.01m,0.76m,18th Nov 14
+400,401,Ninja Gaiden,Series,Tecmo,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+401,402,Ring Fit Adventure,NS,Nintendo EPD,Nintendo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,18th Oct 19
+402,403,Final Fantasy VIII,PS,SquareSoft,Square EA,9.4,N/A,7.86m,2.28m,1.72m,3.63m,0.23m,07th Sep 99
+403,404,Final Fantasy X,PS2,SquareSoft,Square,9.0,10.0,8.05m,2.91m,2.07m,2.73m,0.33m,17th Dec 01
+404,405,Monument Valley,Series,Ustwo Games,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+405,406,Pokémon Black 2 and White 2,DS,Game Freak,Nintendo,8.0,8.3,8.16m,2.79m,1.79m,3.16m,0.43m,07th Oct 12
+406,407,NBA 2K17,All,Visual Concepts,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+407,408,Resident Evil 7,All,Capcom,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+408,409,Call of Duty: Infinite Warfare,PS4,Infinity Ward,Activision,N/A,N/A,8.48m,3.11m,3.83m,0.19m,1.36m,04th Nov 16
+409,410,Fallout 4,PS4,Bethesda Game Studios,Bethesda Softworks,8.6,N/A,8.48m,2.91m,3.97m,0.27m,1.34m,10th Nov 15
+410,411,Mario Kart 8,WiiU,Nintendo,Nintendo,8.8,N/A,7.69m,3.22m,2.55m,1.39m,0.54m,30th May 14
+411,412,Monster Hunter Generations,All,Capcom,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+412,413,Onimusha,Series,Capcom,Capcom,N/A,N/A,N/A,N/A,N/A,N/A,N/A,13th Mar 01
+413,414,Tekken 3,PS,Namco,Namco,9.6,N/A,7.16m,3.27m,2.22m,1.40m,0.29m,29th Apr 98
+414,415,Super Mario 3D All-Stars    Read the review,NS,Nintendo,Nintendo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,18th Sep 20
+415,416,Monster Hunter 4,All,Capcom,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+416,417,FIFA 16,PS4,EA Canada,EA Sports,8.5,N/A,8.22m,1.15m,5.77m,0.07m,1.23m,22nd Sep 15
+417,418,Lego Star Wars II: The Original Trilogy,All,Unknown,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+418,419,The Last of Us,PS3,Naughty Dog,Sony Computer Entertainment America,9.5,N/A,6.27m,2.41m,2.57m,0.29m,0.99m,14th Jun 13
+419,420,GoldenEye 007,N64,Rare Ltd.,Nintendo,9.8,N/A,8.09m,5.80m,2.01m,0.13m,0.15m,25th Aug 97
+420,421,Star Wars Battlefront (2015)    Read the review,PS4,EA DICE,Electronic Arts,7.1,N/A,8.03m,3.31m,3.19m,0.23m,1.30m,17th Nov 15
+421,422,FIFA 13,PS3,EA Canada,EA Sports,N/A,N/A,8.01m,1.07m,5.13m,0.13m,1.68m,25th Sep 12
+422,423,Ace Attorney,Series,Capcom,Capcom,N/A,N/A,N/A,N/A,N/A,N/A,N/A,12th Oct 05
+423,424,Assassin's Creed,All,Ubisoft Montreal,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+424,425,Cars,All,Rainbow Studios,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+425,426,Grand Theft Auto: Liberty City Stories,All,Rockstar Leeds/North,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+426,427,Guitar Hero III: Legends of Rock,All,Neversoft,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+427,428,Halo 2,XB,Bungie Studios,Microsoft Game Studios,9.6,N/A,8.49m,6.82m,1.53m,0.05m,0.08m,09th Nov 04
+428,429,Harry Potter and the Sorcerer's Stone,PS,Argonaut Games,Electronic Arts,8.0,N/A,3.73m,1.37m,2.00m,0.14m,0.22m,15th Nov 01
+429,430,Inazuma Eleven,Series,Level 5,Level 5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,22nd Aug 08
+430,431,Kinect Sports,Series,Rare,Microsoft Game Studios,N/A,N/A,N/A,N/A,N/A,N/A,N/A,09th Oct 10
+431,432,Mortal Kombat 11,All,NetherRealm Studios,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+432,433,Moto Racer,Series,SK Software International,Electronic Arts,N/A,N/A,N/A,N/A,N/A,N/A,N/A,03rd Sep 97
+433,434,NBA 2K16,All,Visual Concepts,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+434,435,NBA 2K21,All,Visual Concepts,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+435,436,Sid Meier's Civilization V,PC,Firaxis Games,2K Games,8.9,N/A,1.70m,1.00m,0.53m,N/A,0.17m,21st Sep 10
+436,437,Unreal,Series,Epic Games,GT Interactive,N/A,N/A,N/A,N/A,N/A,N/A,N/A,22nd May 98
+437,438,The Sims 3    Read the review,PC,EA Redwood Shores,Electronic Arts,8.5,N/A,7.96m,1.01m,6.46m,N/A,0.50m,02nd Jun 09
+438,439,FIFA 09,All,EA Canada,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+439,440,Resident Evil 2 (2019),All,Capcom,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+440,441,Romance of the Three Kingdoms,Series,Koei,KOEI,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10th Dec 85
+441,442,Grand Theft Auto: Liberty City Stories,PSP,Rockstar Leeds,Rockstar Games,8.8,N/A,7.72m,2.90m,2.83m,0.24m,1.74m,25th Oct 05
+442,443,Final Fantasy XII,All,Square Enix,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+443,444,Final Fantasy XIII,All,Square Enix,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+444,445,Pac-Man,2600,Atari,Atari,N/A,N/A,7.81m,7.28m,0.45m,N/A,0.08m,01st Mar 82
+445,446,Cyberpunk 2077,PC,CD Projekt Red Studio,CD Projekt Red Studio,N/A,N/A,N/A,N/A,N/A,N/A,N/A,19th Nov 20
+446,447,Magicka,Series,Arrowhead Game Studios,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+447,448,God of War III    Read the review,PS3,SCEA Santa Monica Studio,Sony Computer Entertainment,9.2,9.4,4.81m,2.74m,1.36m,0.12m,0.60m,16th Mar 10
+448,449,Pokémon Platinum Version,DS,Game Freak,Nintendo,8.3,8.9,7.72m,2.76m,1.73m,2.69m,0.54m,22nd Mar 09
+449,450,The Legend of Zelda: Ocarina of Time,N64,Nintendo EAD,Nintendo,9.9,10.0,7.60m,4.10m,1.89m,1.45m,0.16m,23rd Nov 98
+450,451,Jurassic Park,Series,Ocean Software,Ocean Software,N/A,N/A,N/A,N/A,N/A,N/A,N/A,28th Dec 93
+451,452,Call of Duty: Advanced Warfare,PS4,Sledgehammer Games,Activision,8.5,N/A,7.53m,2.84m,3.34m,0.14m,1.22m,04th Nov 14
+452,453,Crysis,Series,Crytek,Electronic Arts,N/A,N/A,N/A,N/A,N/A,N/A,N/A,13th Nov 07
+453,454,Call of Duty: World at War    Read the review,X360,Treyarch,Activision,8.5,7.8,7.50m,4.88m,1.91m,N/A,0.71m,10th Nov 08
+454,455,Baldur's Gate,Series,BioWare,Interplay Entertainment Corp.,N/A,N/A,N/A,N/A,N/A,N/A,N/A,31st Jul 00
+455,456,Super Mario Bros. 2,NES,Nintendo EAD,Nintendo,N/A,N/A,7.46m,5.39m,1.18m,0.70m,0.19m,01st Oct 88
+456,457,Megami Tensei,Series,Atlus,Atlus,N/A,N/A,N/A,N/A,N/A,N/A,N/A,12th Oct 04
+457,458,Super Mario Galaxy 2    Read the review,Wii,Nintendo EAD Tokyo,Nintendo,9.7,9.8,7.57m,3.59m,2.37m,0.98m,0.62m,23rd May 10
+458,459,Super Smash Bros. Melee,GC,HAL Laboratory,Nintendo,9.2,N/A,7.07m,4.41m,1.04m,1.39m,0.22m,02nd Dec 01
+459,460,Trine,Series,Frozenbyte,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+460,461,Call of Duty: Black Ops 3,XOne,Treyarch,Activision,N/A,N/A,7.37m,4.63m,2.04m,0.02m,0.68m,06th Nov 15
+461,462,Battlefield 3,X360,Dice,Electronic Arts,8.5,N/A,7.35m,4.47m,2.12m,0.06m,0.69m,25th Oct 11
+462,463,Battlefield V,All,EA DICE,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+463,464,Yokai Watch 2: Bony Spirits / Fleshy Souls / Psychic Specters,3DS,Level 5,Nintendo,N/A,N/A,3.65m,0.22m,0.20m,3.19m,0.04m,30th Sep 16
+464,465,Ark,Series,Studio Wildcard,Studio Wildcard,N/A,N/A,N/A,N/A,N/A,N/A,N/A,27th Aug 17
+465,466,The Legend of Zelda: Twilight Princess    Read the review,Wii,Nintendo EAD,Nintendo,9.5,9.6,7.18m,3.74m,2.16m,0.60m,0.69m,19th Nov 06
+466,467,Battlefield 1,PS4,EA DICE,Electronic Arts,9.1,N/A,7.26m,2.20m,3.65m,0.29m,1.12m,21st Oct 16
+467,468,Battlefield 3,PS3,Dice,Electronic Arts,8.5,N/A,7.21m,2.86m,2.94m,0.35m,1.07m,25th Oct 11
+468,469,Oddworld,Series,Oddworld Inhabitants,GT Interactive,N/A,N/A,N/A,N/A,N/A,N/A,N/A,19th Sep 97
+469,470,Need for Speed Underground,PS2,EA Black Box,Electronic Arts,8.6,N/A,7.20m,3.27m,2.83m,0.08m,1.02m,17th Nov 03
+470,471,Assassin's Creed: Brotherhood,All,Ubisoft Montreal,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+471,472,Monster Hunter World: Iceborne,All,Capcom,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+472,473,The Binding of Isaac,PC,Edmund McMillen,Edmund McMillen,8.3,N/A,0.00m,N/A,0.00m,N/A,0.00m,28th Sep 11
+473,1001,Crash Bash,PS,Eurocom Entertainment Software,Sony Computer Entertainment,6.8,N/A,3.39m,1.56m,1.47m,0.19m,0.17m,06th Nov 00
+474,1002,Gears of War 4,XOne,The Coalition,Microsoft Studios,N/A,N/A,3.38m,2.17m,0.90m,N/A,0.32m,11th Oct 16
+475,1003,Mario Baseball,Series,Namco,Nintendo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,29th Aug 05
+476,1004,Tekken: Dark Resurrection    Read the review,PSP,8ing/Raizing,Namco Bandai,8.7,N/A,2.62m,0.76m,1.10m,0.12m,0.65m,25th Jul 06
+477,1005,The Elder Scrolls V: Skyrim Special Edition,PS4,Bethesda Softworks,Bethesda Softworks,8.3,N/A,3.36m,1.24m,1.50m,0.08m,0.54m,28th Oct 16
+478,1006,Watch Dogs 2,PS4,Ubisoft,Ubisoft,N/A,N/A,3.36m,0.98m,1.74m,0.12m,0.52m,15th Nov 16
+479,1007,The Legend of Zelda: Majora's Mask,N64,Nintendo EAD,Nintendo,9.3,N/A,3.36m,1.90m,0.67m,0.73m,0.06m,25th Oct 00
+480,1008,WWF War Zone,PS,Iguana Entertainment,Acclaim Entertainment,N/A,N/A,3.36m,2.47m,0.76m,N/A,0.13m,14th Jul 98
+481,1009,Yoshi's Island DS,DS,Artoon,Nintendo,8.2,N/A,2.77m,1.45m,0.07m,1.10m,0.15m,13th Nov 06
+482,1010,Final Fantasy XIII-2,All,Square,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+483,1011,Assassin's Creed IV: Black Flag,X360,Ubisoft Montreal,Ubisoft,8.5,N/A,3.34m,1.90m,1.14m,0.01m,0.30m,29th Oct 13
+484,1012,NBA 2K18,PS4,Visual Concepts,2K Sports,8.1,N/A,3.34m,2.13m,0.57m,0.04m,0.59m,19th Sep 17
+485,1013,Big Brain Academy: Wii Degree,Wii,Nintendo EAD,Nintendo,7.1,N/A,3.79m,1.05m,1.91m,0.41m,0.42m,11th Jun 07
+486,1014,Luigi's Mansion,GC,Nintendo EAD,Nintendo,7.9,N/A,3.60m,2.38m,0.67m,0.46m,0.10m,17th Nov 01
+487,1015,James Bond 007: Nightfire,PS2,Eurocom Entertainment Software,Electronic Arts,N/A,N/A,3.33m,1.45m,1.29m,0.12m,0.46m,18th Nov 02
+488,1016,Star Wars Episode III: Revenge of the Sith,PS2,The Collective,LucasArts,N/A,N/A,3.32m,1.47m,1.39m,0.03m,0.43m,04th May 05
+489,1017,Max Payne,PS2,Remedy Entertainment,Rockstar Games,8.1,N/A,3.31m,1.99m,1.05m,0.05m,0.22m,06th Dec 01
+490,1018,Madden NFL 16,PS4,EA Tiburon,EA Sports,8.2,N/A,3.30m,2.39m,0.31m,N/A,0.61m,25th Aug 15
+491,1019,Commandos,Series,Pyro Studios,Eidos Interactive,N/A,N/A,N/A,N/A,N/A,N/A,N/A,28th Aug 98
+492,1020,Okami,Series,Clover Studio,Capcom,N/A,N/A,N/A,N/A,N/A,N/A,N/A,19th Sep 06
+493,1021,Sonic Colors,All,Sonic Team/Dimps Corporation,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+494,1022,World of Warcraft: Legion,PC,Blizzard Entertainment,Blizzard Entertainment,N/A,N/A,0.48m,0.17m,0.27m,N/A,0.04m,29th Aug 16
+495,1023,World of Warcraft: Warlords of Draenor,PC,Blizzard Entertainment,Activision Blizzard,N/A,N/A,0.47m,0.08m,0.36m,N/A,0.03m,13th Nov 14
+496,1024,Dark Souls III,PC,From Software,Namco Bandai Games,N/A,N/A,0.11m,N/A,0.11m,N/A,0.01m,11th Apr 16
+497,1025,Dark Souls: Prepare to Die Edition,PC,From Software,Namco Bandai Games,N/A,N/A,0.07m,N/A,0.06m,N/A,0.00m,24th Aug 12
+498,1026,The Lord of the Rings: The Return of the King,PS2,"Hypnos Entertainment, Inc.",Electronic Arts,8.4,N/A,3.28m,1.50m,1.28m,0.05m,0.46m,05th Nov 03
+499,1027,Spyro: Year of the Dragon,PS,Insomniac Games,Sony Computer Entertainment,9.1,N/A,3.71m,1.93m,1.58m,N/A,0.19m,23rd Oct 00
+500,1028,Half-Life 2: Episode Two,PC,Valve Corporation,Valve Software,9.1,N/A,N/A,N/A,N/A,N/A,N/A,10th Oct 07
+501,1029,The Room Two,All,Fireproof Games,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+502,1030,The Legend of Zelda: Majora's Mask 3D,3DS,GREZZO,Nintendo,9.0,N/A,2.50m,1.20m,0.64m,0.48m,0.18m,13th Feb 15
+503,1031,Madden NFL 17,PS4,EA Tiburon,EA Sports,8.5,N/A,3.28m,2.30m,0.37m,N/A,0.60m,23rd Aug 16
+504,1032,True Crime: Streets of LA,PS2,Luxoflux,Activision,N/A,N/A,3.27m,1.89m,1.05m,0.02m,0.31m,03rd Nov 03
+505,1033,Gran Turismo (PSP),PSP,Polyphony Digital,Sony Computer Entertainment,N/A,N/A,3.27m,0.51m,1.59m,0.31m,0.86m,01st Oct 09
+506,1034,Far Cry 3,PS3,Ubisoft Montreal,Ubisoft,N/A,N/A,3.27m,0.88m,1.79m,0.10m,0.50m,04th Dec 12
+507,1035,God of War: Chains of Olympus    Read the review,PSP,Ready at Dawn,Sony Computer Entertainment,8.9,9.5,3.19m,1.48m,1.00m,0.04m,0.66m,04th Mar 08
+508,1036,FIFA 16,XOne,EA Canada,EA Sports,8.5,N/A,3.25m,0.92m,2.10m,N/A,0.24m,22nd Sep 15
+509,1037,Flash Focus: Vision Training in Minutes a Day,DS,Bandai Namco Games,Nintendo,6.1,N/A,3.83m,0.86m,1.56m,1.05m,0.35m,15th Oct 07
+510,1038,Ratchet & Clank: Up Your Arsenal,PS2,Insomniac Games,Sony Computer Entertainment,9.1,N/A,2.57m,1.31m,0.74m,0.31m,0.22m,03rd Nov 04
+511,1039,007: Tomorrow Never Dies,PS,Black Ops Entertainment,Electronic Arts,6.2,N/A,3.21m,1.72m,1.33m,N/A,0.16m,16th Nov 99
+512,1040,L.A. Noire,PS3,Team Bondi,Rockstar Games,9.1,N/A,3.21m,1.29m,1.31m,0.12m,0.49m,15th Nov 11
+513,1041,Alan Wake,All,Remedy Entertainment,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+514,1042,Baseball,NES,Nintendo,Nintendo,N/A,N/A,3.20m,0.73m,0.10m,2.35m,0.02m,01st Oct 85
+515,1043,Breath of Fire,Series,Capcom,Capcom,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10th Aug 94
+516,1044,Detroit: Become Human    Read the review,PS4,Quantic Dream,Sony Interactive Entertainment,8.0,N/A,1.57m,0.55m,0.67m,0.12m,0.24m,25th May 18
+517,1045,Dragon Age: Origins,All,BioWare,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+518,1046,Dragon Quest IV,NES,ChunSoft,Enix,N/A,N/A,3.12m,0.08m,N/A,3.03m,0.01m,01st Oct 92
+519,1047,Dragon Quest VI: Maboroshi no Daichi,SNES,Heart Beat,Enix,N/A,N/A,3.19m,N/A,N/A,3.19m,0.00m,09th Dec 95
+520,1048,Final Fight,Series,Capcom,Capcom,N/A,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 89
+521,1049,Killer Instinct,SNES,Rare Ltd.,Nintendo,N/A,N/A,3.20m,2.26m,0.72m,0.12m,0.10m,01st Aug 95
+522,1050,Perfect Dark,N64,Rare Ltd.,Rare,9.7,N/A,2.52m,1.55m,0.75m,0.16m,0.06m,22nd May 00
+523,1051,Star Wars: Knights of the Old Republic,All,BioWare,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+524,1052,WWF SmackDown! 2: Know Your Role,PS,Yuke's,THQ,8.7,N/A,3.20m,1.76m,1.21m,0.07m,0.16m,21st Nov 00
+525,1053,Assassin's Creed IV: Black Flag,PS4,Ubisoft Montreal,Ubisoft,8.3,N/A,3.19m,1.07m,1.55m,0.06m,0.51m,15th Nov 13
+526,1054,Front Mission,Series,G-Craft,Square,N/A,N/A,N/A,N/A,N/A,N/A,N/A,29th Feb 00
+527,1055,1-2-Switch,NS,Nintendo EPD,Nintendo,5.7,N/A,2.46m,0.62m,1.20m,0.50m,0.15m,03rd Mar 17
+528,1056,Personal Trainer: Cooking,DS,Nintendo EAD,Nintendo,8.4,N/A,3.13m,0.91m,1.01m,1.03m,0.17m,24th Nov 08
+529,1057,SimCity,All,Maxis,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+530,1058,Enter the Matrix,PS2,Shiny Entertainment,Atari,N/A,N/A,3.18m,1.78m,1.12m,0.09m,0.19m,14th May 03
+531,1059,Assassin's Creed Odyssey,PS4,Ubisoft Quebec,Ubisoft,9.5,N/A,3.18m,1.18m,1.40m,0.09m,0.51m,05th Oct 18
+532,1060,Fallout: New Vegas,PS3,Obsidian Entertainment,Bethesda Softworks,8.2,N/A,3.17m,1.54m,1.04m,0.10m,0.49m,19th Oct 10
+533,1061,Sonic Heroes,PS2,Sonic Team,Sega,6.6,N/A,2.96m,1.04m,1.37m,0.06m,0.49m,27th Jan 04
+534,1062,Club Penguin: Elite Penguin Force,DS,1st Playable Productions,Disney Interactive Studios,7.0,N/A,3.14m,1.87m,0.97m,N/A,0.30m,25th Nov 08
+535,1063,FIFA Soccer 08,PS2,EA Canada,EA Sports,N/A,N/A,3.14m,0.68m,0.00m,N/A,2.46m,09th Oct 07
+536,1064,FIFA 18,XOne,EA Vancouver,EA Sports,8.0,N/A,3.14m,0.98m,1.92m,N/A,0.23m,29th Sep 17
+537,1065,Spider-Man,PS,Neversoft Entertainment,Activision,N/A,N/A,3.13m,1.70m,1.25m,0.02m,0.16m,30th Aug 00
+538,1066,Need for Speed III: Hot Pursuit,PS,EA Canada,Electronic Arts,N/A,N/A,3.12m,2.14m,0.86m,N/A,0.13m,25th Mar 98
+539,1067,The Elder Scrolls IV: Oblivion    Read the review,PS3,4J Studios,Bethesda Softworks,9.3,N/A,3.12m,1.69m,0.86m,0.14m,0.44m,20th Mar 07
+540,1068,Star Wars Episode I Racer,N64,LucasArts,LucasArts,8.7,N/A,3.12m,2.31m,0.62m,0.14m,0.04m,19th May 99
+541,1069,Tekken 6,PS3,Namco Bandai Games,Namco Bandai,7.9,N/A,2.77m,1.20m,0.97m,0.17m,0.42m,27th Oct 09
+542,1070,Yoshi,GB,Game Freak,Nintendo,N/A,N/A,2.92m,1.57m,0.62m,0.73m,N/A,01st Jul 92
+543,1071,Resident Evil 6,PS3,Capcom,Capcom,N/A,N/A,3.12m,0.88m,0.97m,0.88m,0.39m,02nd Oct 12
+544,1072,Tom Clancy's Ghost Recon Wildlands,PS4,Ubisoft Paris,Ubisoft,7.0,N/A,3.12m,1.07m,1.35m,0.22m,0.47m,07th Mar 17
+545,1073,NBA 2K13,X360,Visual Concepts,2K Sports,8.6,N/A,3.11m,2.62m,0.21m,0.01m,0.28m,02nd Oct 12
+546,1074,Titanfall,XOne,Respawn Entertainment,Electronic Arts,N/A,N/A,3.11m,1.88m,0.91m,0.04m,0.28m,11th Mar 14
+547,1075,Mario Party 9,Wii,"Nd Cube Co., Ltd.",Nintendo,6.5,N/A,3.20m,1.06m,1.15m,0.77m,0.22m,11th Mar 12
+548,1076,Dead Rising 2,All,Blue Castle Games,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+549,1077,Parasite Eve,Series,Square,Square,N/A,N/A,N/A,N/A,N/A,N/A,N/A,09th Sep 98
+550,1078,Quake,Series,id Software,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+551,1079,Mass Effect 2     Read the review,X360,BioWare Edmonton,Electronic Arts,9.5,8.9,3.10m,1.99m,0.81m,0.03m,0.27m,26th Jan 10
+552,1080,Madden NFL 2002,PS2,EA Sports,EA Sports,N/A,N/A,3.08m,2.50m,0.16m,0.01m,0.42m,19th Aug 01
+553,1081,World Class Track Meet,NES,Bandai,Bandai,N/A,N/A,3.08m,1.92m,0.45m,0.64m,0.07m,01st Sep 87
+554,1082,LEGO Batman: The Videogame    Read the review,Wii,Traveller's Tales,Warner Bros. Interactive,7.3,N/A,3.08m,1.80m,0.98m,N/A,0.29m,23rd Sep 08
+555,1083,Saints Row 2,X360,Volition Inc.,THQ,7.9,N/A,3.07m,1.98m,0.79m,0.02m,0.28m,14th Oct 08
+556,1084,Donkey Kong,GB,Nintendo EAD,Nintendo,N/A,N/A,3.07m,1.57m,0.62m,0.55m,0.34m,01st Jun 94
+557,1085,The Sims: Vacation,PC,Maxis,Electronic Arts,N/A,N/A,3.07m,1.72m,1.21m,N/A,0.14m,25th Mar 02
+558,1086,Call of Duty: Ghosts,XOne,Infinity Ward,Activision,7.5,N/A,3.07m,1.92m,0.86m,N/A,0.28m,22nd Nov 13
+559,1087,LEGO Batman: The Videogame,DS,Traveller's Tales,Warner Bros. Interactive,7.8,N/A,3.06m,1.75m,1.02m,N/A,0.29m,23rd Sep 08
+560,1088,Borderlands 2,X360,Gearbox Software,2K Games,N/A,N/A,3.06m,1.89m,0.88m,0.04m,0.26m,15th Jan 13
+561,1089,Mario Tennis Aces    Read the review,NS,Camelot Software Planning,Nintendo,7.8,N/A,1.87m,0.71m,0.62m,0.42m,0.12m,22nd Jun 18
+562,1090,New Super Luigi U,WiiU,Nintendo,Nintendo,7.8,N/A,2.42m,1.25m,0.75m,0.22m,0.20m,25th Aug 13
+563,1091,Paper Mario: The Origami King    Read the review,NS,Intelligent Systems,Nintendo,N/A,9.0,N/A,N/A,N/A,N/A,N/A,17th Jul 20
+564,1092,Kung Fu Panda,X360,Luxoflux,Activision,7.5,N/A,3.05m,1.91m,0.84m,N/A,0.29m,03rd Jun 08
+565,1093,Mass Effect 3,X360,BioWare,Electronic Arts,N/A,N/A,3.04m,1.94m,0.84m,0.03m,0.24m,06th Mar 12
+566,1094,Rhythm Heaven    Read the review,DS,Nintendo SPD Group No.1,Nintendo,8.5,N/A,3.12m,0.55m,0.50m,1.93m,0.14m,05th Apr 09
+567,1095,Metal Gear Solid V: The Phantom Pain,PS4,Kojima Productions,Konami Digital Entertainment,N/A,N/A,3.04m,0.97m,1.15m,0.50m,0.42m,01st Sep 15
+568,1096,Rayman,PS,Ubisoft Montpellier,Ubisoft,7.0,N/A,3.03m,1.54m,1.33m,N/A,0.16m,01st Sep 95
+569,1097,Tom Clancy's Splinter Cell,XB,Ubisoft,Ubisoft,9.3,9.1,3.02m,1.85m,1.04m,N/A,0.13m,17th Nov 02
+570,1098,Mike Tyson's Punch-Out!!,NES,Nintendo IRD,Nintendo,N/A,N/A,3.02m,2.03m,0.47m,0.45m,0.07m,01st Oct 87
+571,1099,Professor Layton and the Unwound Future,DS,Level 5,Nintendo,8.4,N/A,3.28m,0.61m,1.58m,0.82m,0.27m,12th Sep 10
+572,1100,SoulCalibur IV,All,Project Soul,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+573,1101,Disney Epic Mickey,Wii,Junction Point Studios,Disney Interactive Studios,7.0,N/A,3.02m,2.04m,0.63m,0.12m,0.23m,30th Nov 10
+574,1102,Fire Emblem Fates,3DS,Intelligent Systems,Nintendo,N/A,N/A,1.98m,0.99m,0.31m,0.53m,0.14m,19th Feb 16
+575,1103,Bastion,All,Supergiant Games,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+576,1104,BioShock 2,All,2K Marin,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+577,1105,Civilization II,All,MicroProse,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+578,1106,Command & Conquer,All,Westwood Studios,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+579,1107,Crysis,PC,Crytek,Electronic Arts,9.2,8.5,0.71m,N/A,0.69m,N/A,0.02m,13th Nov 07
+580,1108,Crysis 2,All,Crytek,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+581,1109,Dishonored,PC,Arkane Studios,Bethesda Softworks,N/A,N/A,0.51m,0.27m,0.19m,N/A,0.05m,16th Apr 13
+582,1110,Disney Infinity,All,Heavy Iron Studios / Avalanche Software,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+583,1111,Enter the Gungeon,All,Dodge Roll,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+584,1112,Fable,XB,Big Blue Box,Microsoft Game Studios,8.6,N/A,2.66m,1.99m,0.58m,N/A,0.09m,14th Sep 04
+585,1113,Farming Simulator 15﻿,All,Giants Software,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+586,1114,Frogwares' Sherlock Holmes,Series,Frogwares,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+587,1115,Gears of War 3,X360,Epic Games,Microsoft Studios,9.1,N/A,6.22m,4.05m,1.59m,0.07m,0.50m,20th Sep 11
+588,1116,God of War: Ascension,PS3,SCEA Santa Monica Studio,Sony Computer Entertainment,N/A,N/A,2.40m,1.23m,0.72m,0.04m,0.41m,12th Mar 13
+589,1117,Gungeon,Series,Dodge Roll,Devolver Digital,N/A,N/A,N/A,N/A,N/A,N/A,N/A,05th Apr 16
+590,1118,Halo 3: ODST    Read the review,X360,Bungie,Microsoft Game Studios,8.7,N/A,6.35m,4.34m,1.34m,0.06m,0.61m,22nd Sep 09
+591,1119,Heavy Rain    Read the review,PS3,Quantic Dream,Sony Computer Entertainment,8.8,8.6,3.06m,1.29m,1.24m,0.06m,0.48m,23rd Feb 10
+592,1120,Jurassic World Evolution,All,Frontier Developments,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+593,1121,Kinect Sports,X360,Rare Ltd.,Microsoft Game Studios,7.4,N/A,6.23m,3.92m,1.73m,0.03m,0.55m,04th Nov 10
+594,1122,Kingdom Come: Deliverance,All,Warhorse Studios,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+595,1123,Left 4 Dead    Read the review,X360,Certain Affinity / Valve Software,Valve Corporation,8.7,9.0,3.52m,2.66m,0.49m,0.05m,0.31m,18th Oct 08
+596,1124,Left 4 Dead 2    Read the review,X360,Certain Affinity / Valve Software,Electronic Arts,9.0,N/A,3.97m,2.67m,0.88m,0.05m,0.38m,17th Nov 09
+597,1125,Life is Strange,All,DONTNOD Entertainment,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+598,1126,Little Nightmares,All,Tarsier Studios,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+599,1127,Lords of the Fallen,All,Deck13 Interactive,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+600,1128,Mass Effect: Andromeda,All,BioWare,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+601,1129,Mortal Kombat,All,Midway,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+602,1130,Mortal Kombat (2011),All,NetherRealm Studios,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+603,1131,MotorStorm    Read the review,PS3,Evolution Studios,Sony Computer Entertainment,8.2,N/A,3.87m,1.53m,1.61m,0.06m,0.67m,06th Mar 07
+604,1132,Nioh,All,Team Ninja,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+605,1133,Rally Championship,Series,Red Rat Software,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+606,1134,Risk of Rain,All,Hopoo Games,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+607,1135,Shaun White Snowboarding,All,Ubisoft Montreal,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+608,1136,Sid Meier's Civilization IV,PC,Firaxis Games,2K Games,9.4,N/A,0.16m,0.02m,0.12m,N/A,0.02m,25th Oct 05
+609,1137,Sonic and the Secret Rings,Wii,Sonic Team,Sega,6.7,N/A,2.75m,1.23m,1.19m,0.04m,0.30m,20th Feb 07
+610,1138,Sonic Rush,DS,Dimps Corporation,Sega,7.8,N/A,3.13m,1.21m,1.56m,0.06m,0.29m,15th Nov 05
+611,1139,Space Engineers,PC,Keen Software House,Keen Software House,N/A,N/A,N/A,N/A,N/A,N/A,N/A,28th Feb 19
+612,1140,Syberia,Series,Microids,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+613,1141,The Outer Worlds,Series,Obsidian Entertainment,Private Division,N/A,N/A,N/A,N/A,N/A,N/A,N/A,25th Oct 19
+614,1142,The Outer Worlds,All,Obsidian Entertainment,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+615,1143,Torchlight II,PC,Runic Games,Runic Games,N/A,N/A,0.00m,N/A,0.00m,N/A,0.00m,20th Sep 12
+616,2001,The Sims: Superstar,PC,Maxis,Electronic Arts,N/A,N/A,1.68m,1.67m,0.00m,N/A,N/A,12th May 03
+617,2002,Tales of Destiny,All,Wolf Team,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+618,2003,SSX 3,PS2,EA Canada,EA Sports BIG,N/A,N/A,1.67m,0.93m,0.52m,N/A,0.22m,20th Oct 03
+619,2004,Madden NFL 2001,PS,EA Sports,EA Sports,N/A,N/A,1.67m,1.58m,0.05m,N/A,0.04m,22nd Aug 00
+620,2005,Dragon Age: Origins    Read the review,PS3,BioWare Edmonton,Electronic Arts,8.7,N/A,1.67m,0.96m,0.42m,0.08m,0.21m,03rd Nov 09
+621,2006,Star Wars Battlefront II,XB,Pandemic Studios,LucasArts,N/A,N/A,1.67m,1.22m,0.39m,N/A,0.06m,01st Nov 05
+622,2007,Disney's DuckTales,NES,Capcom,Capcom,N/A,N/A,1.67m,0.91m,0.30m,0.42m,0.04m,01st Sep 89
+623,2008,"Monsters, Inc.",GBA,Artificial Mind and Movement,THQ,N/A,N/A,1.67m,0.59m,0.95m,0.03m,0.10m,25th Oct 01
+624,2009,Tony Hawk's Pro Skater 3,PS,Neversoft,Activision,N/A,N/A,1.67m,1.09m,0.49m,0.02m,0.07m,28th Oct 01
+625,2010,PGR: Project Gotham Racing 2,XB,Bizarre Creations,Microsoft Game Studios,8.9,N/A,1.67m,0.97m,0.59m,0.04m,0.07m,17th Nov 03
+626,2011,Destiny,PS3,Bungie,Activision,N/A,N/A,1.67m,0.69m,0.59m,0.13m,0.26m,09th Sep 14
+627,2012,Fight Night Round 3,PS3,EA Chicago,EA Sports,N/A,N/A,1.67m,0.81m,0.58m,0.01m,0.26m,05th Dec 06
+628,2013,Spy Hunter,PS2,Paradigm Entertainment,Midway Games,N/A,N/A,1.67m,1.13m,0.32m,N/A,0.22m,24th Sep 01
+629,2014,NCAA Football 2004,PS2,EA Tiburon,Electronic Arts,8.1,N/A,1.67m,1.35m,0.09m,N/A,0.23m,16th Jul 03
+630,2015,SpongeBob SquarePants: Battle for Bikini Bottom,PS2,Heavy Iron Studios,THQ,5.8,N/A,1.67m,1.08m,0.45m,N/A,0.14m,31st Oct 03
+631,2016,Disney Infinity,Wii,Unknown,Disney Interactive Studios,N/A,N/A,1.66m,1.06m,0.44m,N/A,0.16m,18th Aug 13
+632,2017,Shaun White Snowboarding: Road Trip    Read the review,Wii,Ubisoft Montreal,Ubisoft,7.8,N/A,1.66m,0.93m,0.56m,N/A,0.16m,16th Nov 08
+633,2018,SSX,PS2,EA Canada,EA Sports BIG,N/A,N/A,1.66m,0.78m,0.61m,0.06m,0.20m,30th Oct 00
+634,2019,NBA Ballers,PS2,Midway,Midway Games,N/A,N/A,1.66m,0.81m,0.63m,N/A,0.21m,05th Apr 04
+635,2020,NBA Live 2003,PS2,EA Canada,EA Sports,N/A,N/A,1.66m,1.25m,0.15m,0.03m,0.22m,08th Oct 02
+636,2021,NBA 2K15,X360,Visual Concepts,2K Sports,N/A,N/A,1.66m,1.37m,0.11m,N/A,0.17m,07th Oct 14
+637,2022,Ms. Pac-Man,2600,General Entertainment,Atari,N/A,N/A,1.65m,1.54m,0.10m,N/A,0.02m,01st Jan 82
+638,2023,Star Wars The Clone Wars: Lightsaber Duels,Wii,Krome Studios,LucasArts,N/A,N/A,1.65m,1.21m,0.30m,N/A,0.14m,11th Nov 08
+639,2024,Dragon Ball Z: Budokai Tenkaichi 2,PS2,Spike,Atari,N/A,N/A,0.79m,0.66m,0.02m,N/A,0.11m,07th Nov 06
+640,2025,Golden Sun,GBA,Camelot Software Planning,Nintendo,9.1,N/A,1.76m,0.93m,0.38m,0.40m,0.06m,11th Nov 01
+641,2026,Madden NFL 13,All,EA Tiburon,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+642,2027,Pokémon Super Mystery Dungeon,3DS,ChunSoft,Nintendo,7.7,N/A,1.41m,0.51m,0.46m,0.35m,0.09m,20th Nov 15
+643,2028,Senran Kagura,Series,Tamsoft,Xseed Games,N/A,N/A,N/A,N/A,N/A,N/A,N/A,14th Nov 13
+644,2029,Street Fighter II': Special Champion Edition,GEN,Capcom,Capcom,N/A,N/A,1.66m,1.00m,0.30m,0.31m,0.04m,27th Sep 93
+645,2030,Super Scope 6,SNES,Nintendo R&D1,Nintendo,N/A,N/A,1.65m,1.06m,0.38m,0.15m,0.05m,01st Jan 92
+646,2031,MySims,Wii,EA Redwood Shores,Electronic Arts,7.1,N/A,1.65m,0.90m,0.54m,0.04m,0.17m,18th Sep 07
+647,2032,Need for Speed Carbon,X360,EA Black Box,Electronic Arts,7.9,N/A,1.65m,0.76m,0.69m,0.02m,0.18m,31st Oct 06
+648,2033,Plants vs. Zombies    Read the review,PC,PopCap Games,PopCap Games,9.0,N/A,0.05m,N/A,0.04m,N/A,0.00m,05th May 09
+649,2034,Watch Dogs,XOne,Ubisoft Montreal,Ubisoft,N/A,N/A,1.64m,0.91m,0.59m,N/A,0.15m,27th May 14
+650,2035,Persona 5,PS4,Atlus,Atlus,N/A,N/A,1.64m,0.62m,0.34m,0.48m,0.20m,04th Apr 17
+651,2036,Army of Two,X360,EA Montreal,Electronic Arts,6.7,N/A,1.64m,1.09m,0.37m,0.02m,0.16m,07th Mar 08
+652,2037,Dig Dug,2600,Atari,Atari,N/A,N/A,1.64m,1.52m,0.10m,N/A,0.02m,01st Jan 83
+653,2038,Battlefield 2: Modern Combat,All,Digital Illusions CE,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+654,2039,Ghosts 'n Goblins,NES,Micronics,Capcom,N/A,N/A,1.64m,0.74m,0.26m,0.61m,0.03m,01st Nov 86
+655,2040,Sonic Mega Collection,GC,Sonic Team,Sega,7.5,N/A,2.05m,1.47m,0.48m,0.05m,0.06m,10th Nov 02
+656,2041,Tom Clancy's Rainbow Six,PS,Rebellion Developments,Red Storm Entertainment,N/A,N/A,1.64m,0.93m,0.63m,N/A,0.08m,23rd Nov 99
+657,2042,Wii Play: Motion,Wii,Nintendo EAD,Nintendo,5.2,N/A,0.92m,0.23m,0.43m,0.18m,0.08m,13th Jun 11
+658,2043,Tiger Woods PGA Tour 2003,PS2,EA Redwood Shores,EA Sports,N/A,N/A,1.64m,0.80m,0.63m,N/A,0.21m,27th Oct 02
+659,2044,NBA Live 06 (All region sales),PS2,EA Canada,EA Sports,N/A,N/A,1.64m,1.44m,0.15m,N/A,0.05m,26th Sep 05
+660,2045,Prince of Persia: Warrior Within,PS2,Ubisoft Montreal,Ubisoft,N/A,N/A,1.64m,0.54m,0.88m,N/A,0.22m,30th Nov 04
+661,2046,ESPN NFL 2K5,XB,Visual Concepts,Sega,N/A,N/A,1.63m,1.54m,0.02m,N/A,0.07m,20th Jul 04
+662,2047,Mario Party 6,GC,Hudson Soft,Nintendo,7.2,N/A,1.65m,0.90m,0.11m,0.60m,0.05m,06th Dec 04
+663,2048,Max Payne 3,X360,Rockstar Vancouver,Rockstar Games,N/A,N/A,1.63m,0.86m,0.62m,0.01m,0.13m,15th May 12
+664,2049,Tiger Woods PGA Tour 2004,PS2,EA Redwood Shores,EA Sports,N/A,N/A,1.63m,1.18m,0.34m,N/A,0.10m,22nd Sep 03
+665,2050,Ape Escape,PS,SCE Japan Studio,Sony Computer Entertainment,9.3,N/A,1.63m,0.71m,0.48m,0.32m,0.11m,31st May 99
+666,2051,NCAA Football 2005,PS2,EA Tiburon,EA Sports,N/A,N/A,1.62m,1.32m,0.09m,N/A,0.22m,15th Jul 04
+667,2052,Kinectimals    Read the review,X360,Frontier Studio,Microsoft Game Studios,7.5,N/A,1.62m,1.02m,0.46m,0.00m,0.14m,04th Nov 10
+668,2053,Uncharted: Golden Abyss,PSV,SCEA Bend Studio / Naughty Dog,Sony Computer Entertainment,7.9,N/A,1.62m,0.53m,0.71m,0.13m,0.25m,15th Feb 12
+669,2054,Tony Hawk's American Wasteland (Old all region sales),PS2,Neversoft Entertainment,Activision,N/A,N/A,1.62m,0.80m,0.63m,0.01m,0.19m,18th Oct 05
+670,2055,Call of Duty: Black Ops,PC,Treyarch,Activision,8.5,N/A,1.62m,0.58m,0.82m,N/A,0.23m,09th Nov 10
+671,2056,The Order: 1886,PS4,Ready at Dawn,Sony Computer Entertainment,6.2,N/A,1.62m,0.44m,0.86m,0.07m,0.25m,20th Feb 15
+672,2057,Rock Band    Read the review,PS3,Harmonix Music Systems,MTV Games,9.1,N/A,1.62m,0.99m,0.41m,N/A,0.22m,20th Nov 07
+673,2058,Sled Storm,PS,EA Canada,Electronic Arts,N/A,N/A,1.62m,0.90m,0.61m,N/A,0.11m,10th Aug 99
+674,2059,NFL Street 2,PS2,EA Tiburon,EA Sports BIG,N/A,N/A,1.61m,0.79m,0.62m,N/A,0.21m,22nd Dec 04
+675,2060,Baseball,GB,Nintendo,Nintendo,N/A,N/A,1.61m,0.66m,0.27m,0.65m,0.03m,01st Aug 89
+676,2061,Yu-Gi-Oh! Duel Monsters,GB,Konami Computer Entertainment Shinjuku,Konami,N/A,N/A,1.61m,N/A,N/A,1.61m,0.01m,16th Dec 98
+677,2062,Buzz! The Music Quiz,PS2,Relentless Software,Sony Computer Entertainment,N/A,N/A,1.61m,N/A,1.18m,N/A,0.43m,21st Oct 05
+678,2063,SpongeBob's Atlantis SquarePantis,DS,Altron,THQ,N/A,N/A,1.61m,1.49m,0.00m,N/A,0.11m,23rd Oct 07
+679,2064,Tom Clancy's Ghost Recon Wildlands,XOne,Ubisoft Paris,Ubisoft,7.7,N/A,1.61m,0.98m,0.48m,N/A,0.15m,07th Mar 17
+680,2065,Wolfenstein: The New Order,PS4,MachineGames,Bethesda Softworks,N/A,N/A,1.61m,0.48m,0.84m,0.03m,0.25m,20th May 14
+681,2066,Rage,X360,id Software,Bethesda Softworks,7.9,N/A,1.60m,0.82m,0.60m,0.03m,0.15m,04th Oct 11
+682,2067,Madden NFL 15,XOne,EA Tiburon,EA Sports,N/A,N/A,1.60m,1.34m,0.10m,N/A,0.17m,26th Aug 14
+683,2068,Midnight Club 3: DUB Edition (America/Others Sales),PS2,Rockstar San Diego,Rockstar Games,N/A,N/A,1.60m,1.30m,0.23m,N/A,0.07m,11th Apr 05
+684,2069,Battlefield: Bad Company,All,EA DICE,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+685,2070,Bloodstained,Series,Inti Creates,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+686,2071,Dragon Quest IV: Chapters of the Chosen    Read the review,DS,ArtePiazza,Square Enix,8.1,8.0,1.62m,0.30m,0.02m,1.27m,0.03m,16th Sep 08
+687,2072,Dragon Quest Monsters 2: Cobi's Journey,GB,TOSE Software,Enix,N/A,N/A,1.56m,N/A,N/A,1.56m,0.00m,15th Sep 01
+688,2073,Dragon Quest VII: Fragments of the Forgotten Past,3DS,ArtePiazza,Nintendo,N/A,N/A,1.61m,0.13m,0.13m,1.31m,0.02m,16th Sep 16
+689,2074,F-1 World Grand Prix,N64,Paradigm Entertainment,Video System,N/A,N/A,1.60m,0.46m,0.96m,0.09m,0.08m,31st Jul 98
+690,2075,Fitness Boxing,Series,Imagineer,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+691,2076,Kingdom Hearts HD I.5 ReMIX,PS3,Square Enix,Square Enix,N/A,N/A,1.85m,0.93m,0.40m,0.25m,0.28m,10th Sep 13
+692,2077,Kingdom Hearts: Chain of Memories,GBA,Jupiter Corporation,Square Enix,7.4,N/A,1.85m,1.26m,0.18m,0.35m,0.06m,07th Dec 04
+693,2078,Lost Planet: Extreme Condition,X360,Capcom,Capcom,7.6,N/A,1.34m,1.09m,0.04m,0.10m,0.10m,12th Jan 07
+694,2079,Marvel vs. Capcom: Infinite,All,Capcom,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+695,2080,Metroid Fusion,GBA,Nintendo R&D1,Nintendo,9.0,N/A,1.68m,1.18m,0.27m,0.17m,0.06m,17th Nov 02
+696,2081,Pikmin,GC,Nintendo EAD,Nintendo,8.1,N/A,1.63m,0.78m,0.25m,0.56m,0.04m,03rd Dec 01
+697,2082,Resident Evil 4,GC,Capcom Production Studio 4,Capcom,9.6,N/A,1.69m,0.98m,0.42m,0.22m,0.06m,11th Jan 05
+698,2083,Sonic Adventure DX: Director's Cut,GC,Sonic Team,Sega,5.4,N/A,1.27m,0.87m,0.30m,0.06m,0.03m,18th Jun 03
+699,2084,Sonic Unleashed,Wii,Sonic Team/Dimps Corporation,Sega,6.7,8.2,2.16m,1.26m,0.68m,0.02m,0.22m,18th Nov 08
+700,2085,Super Mario Strikers,GC,Next Level Games,Nintendo,8.0,N/A,1.61m,0.98m,0.38m,0.20m,0.04m,05th Dec 05
+701,2086,Tales of Symphonia,All,Namco Tales Studio,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+702,2087,River Raid,2600,Activision,Activision,N/A,N/A,1.60m,1.49m,0.09m,N/A,0.02m,01st Jan 82
+703,2088,Just Cause 2    Read the review,X360,Avalanche Studios,Square Enix,8.0,N/A,1.60m,0.59m,0.83m,0.02m,0.17m,23rd Mar 10
+704,2089,L.A. Noire: The Complete Edition,PC,Rockstar Leeds,Rockstar Games,N/A,N/A,0.25m,0.09m,0.13m,N/A,0.03m,08th Nov 11
+705,2090,ESPN NBA 2K5,PS2,Visual Concepts,Sega,N/A,N/A,1.59m,1.26m,0.12m,N/A,0.21m,30th Sep 04
+706,2091,Sonic Generations,PS3,Sonic Team,Sega,7.3,N/A,1.59m,0.60m,0.72m,0.02m,0.25m,01st Nov 11
+707,2092,LEGO Harry Potter: Years 1-4,X360,Traveller's Tales,Warner Bros. Interactive,7.9,N/A,1.59m,0.95m,0.50m,N/A,0.14m,29th Jun 10
+708,2093,Far Cry 2    Read the review,X360,Ubisoft Montreal,Ubisoft,8.5,N/A,1.59m,0.72m,0.69m,0.02m,0.18m,21st Oct 08
+709,2094,Soul Blade,PS,Namco,Namco,8.6,N/A,1.59m,0.61m,0.41m,0.46m,0.10m,01st Jan 97
+710,2095,Diddy Kong Racing DS,DS,Rare Ltd.,Nintendo,5.1,N/A,1.22m,1.09m,0.04m,N/A,0.09m,05th Feb 07
+711,2096,Kirby: Planet Robobot,3DS,HAL Laboratory,Nintendo,7.7,N/A,1.32m,0.41m,0.22m,0.64m,0.06m,10th Jun 16
+712,2097,Mario Bros.,2600,Atari,Atari,N/A,N/A,1.59m,1.48m,0.09m,N/A,0.02m,01st Oct 83
+713,2098,Pro Evolution Soccer 2008,PS3,Konami,Konami,7.1,N/A,1.59m,0.04m,1.10m,0.32m,0.13m,12th Mar 08
+714,2099,FIFA 16,X360,EA Canada,EA Sports,9.0,N/A,1.59m,0.59m,0.88m,N/A,0.12m,22nd Sep 15
+715,2100,NASCAR 2000,PS,Stormfront Studios,EA Sports,N/A,N/A,1.59m,0.88m,0.60m,N/A,0.10m,30th Sep 99
+716,2101,Dance Dance Revolution: Hottest Party 2,Wii,Bemani,Konami,N/A,N/A,1.58m,0.94m,0.48m,0.01m,0.15m,12th Sep 08
+717,2102,Amnesia,Series,Frictional Games,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+718,2103,Jampack Summer 2K,PS,Sony Computer Entertainment America,Sony Computer Entertainment,N/A,N/A,1.58m,0.88m,0.60m,N/A,0.10m,15th May 00
+719,2104,Devil May Cry 4,PS3,Capcom,Capcom,8.2,8.2,1.58m,0.58m,0.45m,0.34m,0.20m,05th Feb 08
+720,2105,Spyro 2: Season of Flame,GBA,Digital Eclipse,Vivendi Games,N/A,N/A,1.58m,0.85m,0.65m,N/A,0.08m,25th Sep 02
+721,2106,Batman: Arkham Knight,XOne,Rocksteady Studios,Warner Bros. Interactive Entertainment,N/A,N/A,1.58m,0.97m,0.46m,N/A,0.14m,23rd Jun 15
+722,2107,LEGO Pirates of the Caribbean: The Video Game,Wii,Traveller's Tales,Disney Interactive Studios,7.5,N/A,1.57m,0.73m,0.69m,N/A,0.15m,10th May 11
+723,2108,Pro Evolution Soccer 2010,PS2,Konami,Konami,7.2,N/A,1.57m,0.10m,0.18m,0.12m,1.16m,10th Nov 09
+724,2109,NCAA Football 2002,PS2,EA Tiburon,EA Sports,N/A,N/A,1.57m,0.77m,0.60m,N/A,0.20m,23rd Jul 01
+725,2110,Guitar Hero: On Tour Decades,DS,Vicarious Visions,Activision,N/A,N/A,1.57m,0.84m,0.57m,N/A,0.16m,16th Nov 08
+726,2111,Mario Tennis Open,3DS,Camelot Software Planning,Nintendo,6.6,N/A,1.00m,0.26m,0.33m,0.36m,0.05m,20th May 12
+727,2112,Moshi Monsters: Moshling Zoo,DS,Mind Candy,Activision,N/A,N/A,1.57m,0.38m,0.98m,N/A,0.21m,06th Nov 11
+728,2113,Conflict: Desert Storm,PS2,Pivotal Games,Gotham Games,N/A,N/A,1.57m,0.98m,0.53m,N/A,0.06m,30th Sep 02
+729,2114,High School Musical 3: Senior Year,DS,Griptonite Games,Disney Interactive Studios,N/A,N/A,1.57m,0.63m,0.76m,N/A,0.18m,21st Oct 08
+730,2115,Carnival Games: Mini Golf,Wii,Cat Daddy Games,2K Play,N/A,N/A,1.56m,0.86m,0.55m,N/A,0.15m,20th Oct 08
+731,2116,Smuggler's Run,PS2,Rockstar San Diego,Rockstar Games,N/A,N/A,1.56m,0.77m,0.60m,N/A,0.20m,25th Oct 00
+732,2117,Fight Night Round 3,PS2,EA Chicago,EA Sports,N/A,N/A,1.56m,1.07m,0.40m,N/A,0.10m,20th Feb 06
+733,2118,AudioSurf,PC,BestGameEver.com,Invisible Handlebar,8.2,9.0,N/A,N/A,N/A,N/A,N/A,15th Feb 08
+734,2119,Mortal Kombat,PS3,NetherRealm Studios,Warner Bros. Interactive,8.4,N/A,1.56m,1.06m,0.31m,N/A,0.19m,19th Apr 11
+735,2120,Donkey Kong Classics,NES,Nintendo,Nintendo,N/A,N/A,1.56m,0.59m,0.14m,0.81m,0.02m,01st Oct 88
+736,2121,Yoshi's Woolly World,WiiU,Good-Feel,Nintendo,7.4,6.0,1.52m,0.74m,0.53m,0.12m,0.12m,16th Oct 15
+737,2122,Mark of the Ninja,PC,Klei Entertainment,Microsoft Studios,9.3,N/A,N/A,N/A,N/A,N/A,N/A,16th Oct 12
+738,2123,Hannah Montana: Music Jam,DS,Fall Line Studio,Disney Interactive Studios,N/A,N/A,1.56m,1.05m,0.36m,N/A,0.15m,16th Oct 07
+739,2124,Twisted Metal,PS,SingleTrac,Sony Computer Entertainment,7.0,N/A,1.56m,1.32m,0.19m,N/A,0.05m,05th Nov 95
+740,2125,BioShock 2,PC,2K Marin,2K Games,8.5,N/A,0.24m,0.02m,0.19m,N/A,0.03m,09th Feb 10
+741,2126,MySims Kingdom,DS,EA Redwood Shores,Electronic Arts,N/A,N/A,1.56m,0.80m,0.59m,0.01m,0.16m,28th Oct 08
+742,2127,Mafia II,X360,Illusion Softworks,2K Games,7.2,N/A,1.56m,0.85m,0.55m,N/A,0.15m,24th Aug 10
+743,2128,Stuntman,PS2,Reflections Interactive,Atari,N/A,N/A,1.55m,0.76m,0.59m,N/A,0.20m,23rd Jun 02
+744,2129,Tom Clancy's Rainbow Six 3,XB,Ubisoft Montreal / Red Storm Entertainment,Ubisoft,N/A,N/A,1.55m,0.91m,0.57m,N/A,0.07m,12th Nov 03
+745,2130,BioShock 2    Read the review,PS3,2K Marin,2K Games,8.5,N/A,1.55m,0.85m,0.46m,0.02m,0.22m,09th Feb 10
+746,2131,Dishonored,PS3,Arkane Studios,Bethesda Softworks,N/A,N/A,1.55m,0.72m,0.54m,0.04m,0.26m,16th Apr 13
+747,2132,Guitar Hero 5,Wii,Vicarious Visions,Activision,8.9,N/A,1.55m,0.92m,0.48m,N/A,0.15m,01st Sep 09
+748,2133,007: The World is Not Enough,N64,Eurocom Entertainment Software,Electronic Arts,7.4,N/A,1.55m,1.13m,0.38m,0.02m,0.03m,17th Oct 00
+749,2134,Practise English!,DS,Plato,Nintendo,N/A,N/A,0.73m,N/A,N/A,0.73m,N/A,26th Oct 07
+750,2135,Spider-Man 2: Enter: Electro,PS,Vicarious Visions,Activision,N/A,N/A,1.55m,0.57m,0.87m,0.02m,0.09m,17th Oct 01
+751,2136,Battlefield V,XOne,EA DICE,Electronic Arts,N/A,N/A,1.55m,1.05m,0.35m,N/A,0.15m,20th Nov 18
+752,2137,Need for Speed: Most Wanted (2012),X360,Criterion Games,Electronic Arts,N/A,N/A,1.54m,0.62m,0.79m,0.01m,0.12m,30th Oct 12
+753,2138,Go Vacation,Wii,Namco Bandai Games,Namco Bandai,7.0,N/A,1.54m,0.42m,0.66m,0.33m,0.13m,11th Oct 11
+754,2139,NBA 2K14,PS4,Visual Concepts,2K Sports,N/A,N/A,1.54m,0.91m,0.35m,0.01m,0.27m,15th Nov 13
+755,2140,Dark Cloud,PS2,Level 5,Sony Computer Entertainment,8.2,N/A,1.54m,0.83m,0.44m,0.08m,0.19m,28th May 01
+756,2141,Iron Man 2,All,"Sega Studios, San Francisco",Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+757,2142,Sonic the Hedgehog (2006),X360,Sonic Team,Sega,4.8,4.8,0.94m,0.39m,0.45m,N/A,0.11m,14th Nov 06
+758,2143,SoulCalibur IV,X360,Project Soul,Namco Bandai,8.3,N/A,1.58m,0.92m,0.43m,0.07m,0.15m,29th Jul 08
+759,2144,MVP Baseball 2005,PS2,EA Canada,EA Sports,N/A,N/A,1.54m,1.26m,0.07m,N/A,0.21m,22nd Feb 05
+760,2145,Die Hard Trilogy,PS,Probe Entertainment Limited,Fox Interactive,8.5,N/A,1.54m,0.85m,0.58m,N/A,0.10m,31st Aug 96
+761,2146,Hitman,PC,IO Interactive,Square Enix,N/A,N/A,0.00m,N/A,0.00m,N/A,0.00m,11th Mar 16
+762,3001,Madden NFL 2004,XB,EA Tiburon,EA Sports,N/A,N/A,1.09m,1.02m,0.02m,N/A,0.05m,12th Aug 03
+763,3002,Sniper: Ghost Warrior 2,PC,City Interactive,City Interactive,N/A,N/A,0.08m,0.02m,0.05m,N/A,0.01m,12th Mar 13
+764,3003,Bully: Scholarship Edition,X360,Rockstar Vancouver/Mad Doc Software,Rockstar Games,8.1,10.0,1.09m,0.53m,0.42m,0.03m,0.11m,05th Mar 08
+765,3004,Star Wars: The Force Unleashed,PSP,Krome Studios,LucasArts,7.1,N/A,1.09m,0.43m,0.41m,N/A,0.24m,16th Sep 08
+766,3005,The Godfather,PS2,Headgate,Electronic Arts,N/A,N/A,1.09m,0.89m,0.03m,0.01m,0.15m,21st Mar 06
+767,3006,Alien: Isolation,PS4,Creative Assembly,Sega,N/A,N/A,1.09m,0.29m,0.59m,0.05m,0.16m,07th Oct 14
+768,3007,Star Wars: Bounty Hunter,PS2,LucasArts,LucasArts,N/A,N/A,1.09m,0.53m,0.42m,N/A,0.14m,22nd Nov 02
+769,3008,Imagine: Babysitters,DS,Visual Impact,Ubisoft,N/A,N/A,1.09m,0.63m,0.36m,N/A,0.10m,07th Oct 08
+770,3009,Namco Museum Battle Collection,PSP,Namco Tales Studio,Namco,7.9,N/A,1.09m,0.75m,0.18m,N/A,0.16m,23rd Aug 05
+771,3010,To the Moon,PC,Freebird Games,Unknown,8.5,N/A,N/A,N/A,N/A,N/A,N/A,01st Nov 11
+772,3011,Skate 2    Read the review,X360,EA Black Box,Electronic Arts,8.2,N/A,1.09m,0.82m,0.17m,0.01m,0.09m,21st Jan 09
+773,3012,NFL Blitz 2000,PS,Midway Games,Midway Games,N/A,N/A,1.09m,0.60m,0.41m,N/A,0.07m,17th Aug 99
+774,3013,NASCAR Thunder 2004,PS2,EA Tiburon,EA Sports,N/A,N/A,1.08m,0.53m,0.41m,N/A,0.14m,16th Sep 03
+775,3014,SpongeBob SquarePants: Revenge of the Flying Dutchman,PS2,Big Sky Software,THQ,N/A,N/A,1.08m,0.53m,0.41m,N/A,0.14m,21st Nov 02
+776,3015,Dante's Inferno    Read the review,PS3,Visceral Games,Electronic Arts,7.3,8.3,1.08m,0.64m,0.28m,0.04m,0.12m,09th Feb 10
+777,3016,Fisherman's Bass Club,PS2,Vingt-et-un Systems,Agetec,N/A,N/A,1.08m,0.53m,0.41m,N/A,0.14m,30th Nov 02
+778,3017,Virtua Fighter 5,PS3,Sega-AM2,Sega,8.7,N/A,1.08m,0.29m,0.52m,0.08m,0.20m,20th Feb 07
+779,3018,Pro Evolution Soccer 2014,PS3,Konami,Konami Digital Entertainment,8.3,N/A,1.08m,0.03m,0.46m,0.51m,0.08m,24th Sep 13
+780,3019,Joust,2600,Atari,Atari,N/A,N/A,1.08m,1.01m,0.06m,N/A,0.01m,01st Jan 83
+781,3020,The Simpsons Game,PSP,EA Redwood Shores,Electronic Arts,6.0,N/A,1.08m,0.24m,0.54m,N/A,0.30m,05th Nov 07
+782,3021,Tom Clancy's Ghost Recon 2,PS2,Red Storm Entertainment,Ubisoft,N/A,N/A,1.08m,0.64m,0.34m,N/A,0.10m,30th Nov 04
+783,3022,Astral Chain,NS,PlatinumGames,Nintendo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,30th Aug 19
+784,3023,Ben 10: Alien Force,All,Monkey Bar Games,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+785,3024,Mario Kart Live: Home Circuit,NS,Velan Studios,Nintendo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16th Oct 20
+786,3025,Marvel Ultimate Alliance 3: The Black Order,NS,Team Ninja,Nintendo,N/A,N/A,N/A,N/A,N/A,N/A,N/A,19th Jul 19
+787,3026,Mega Man 3,NES,Capcom,Capcom,N/A,N/A,1.17m,0.68m,0.10m,0.39m,N/A,01st Nov 90
+788,3027,Metroid Prime Hunters,DS,Nintendo Software Technology Corporation,Nintendo,8.4,N/A,0.76m,0.57m,0.04m,0.11m,0.06m,20th Mar 06
+789,3028,Ready 2 Rumble Boxing,PS,Point of View,Midway Games,7.6,N/A,1.08m,0.60m,0.41m,N/A,0.07m,31st Oct 99
+790,3029,Dragon Ball Z: Taiketsu,GBA,Webfoot Technologies,Atari,3.8,N/A,1.08m,0.77m,0.29m,N/A,0.02m,24th Nov 03
+791,3030,Grand Theft Auto: Chinatown Wars,PSP,Rockstar Leeds,Rockstar Games,9.2,N/A,1.08m,0.28m,0.50m,0.03m,0.27m,20th Oct 09
+792,3031,Disney's Lilo & Stitch,GBA,Digital Eclipse,Disney Interactive Studios,8.0,N/A,1.08m,0.77m,0.29m,N/A,0.02m,07th Jun 02
+793,3032,Star Fox: Assault,GC,Namco,Nintendo,6.6,8.5,1.08m,0.68m,0.18m,0.19m,0.03m,14th Feb 05
+794,3033,FIFA Soccer 11,Wii,EA Canada,EA Sports,7.0,N/A,1.08m,0.26m,0.69m,N/A,0.12m,28th Sep 10
+795,3034,LEGO Star Wars II: The Original Trilogy,DS,Amaze Entertainment,LucasArts,4.9,N/A,1.07m,0.96m,0.03m,N/A,0.08m,12th Sep 06
+796,3035,Marvel vs. Capcom 3: Fate of Two Worlds,X360,Capcom,Capcom,8.4,N/A,1.07m,0.79m,0.18m,0.03m,0.08m,15th Feb 11
+797,3036,Doko Demo Issyo,PS,bexide,Sony Computer Entertainment,N/A,N/A,1.07m,N/A,N/A,1.00m,0.07m,22nd Jul 99
+798,3037,Call of Duty 3,PS2,Treyarch,Activision,8.2,N/A,1.07m,0.89m,0.03m,N/A,0.15m,07th Nov 06
+799,3038,The Biggest Loser,Wii,Blitz Games,THQ,7.7,N/A,1.07m,0.86m,0.12m,N/A,0.09m,06th Oct 09
+800,3039,Prince of Persia    Read the review,PS3,Ubisoft Montreal,Ubisoft,8.3,8.2,1.07m,0.47m,0.41m,0.03m,0.17m,02nd Dec 08
+801,3040,Skylanders Giants,PS3,Toys for Bob,Activision,N/A,N/A,1.07m,0.38m,0.52m,N/A,0.18m,21st Oct 12
+802,3041,Imagine: Fashion Designer New York,DS,Virtual Toys / Lexis Numerique,Ubisoft,N/A,N/A,1.07m,0.65m,0.32m,N/A,0.10m,13th Oct 08
+803,3042,Tiger Woods PGA Tour 10    Read the review,Wii,EA Tiburon,EA Sports,9.0,N/A,1.07m,0.60m,0.37m,N/A,0.10m,08th Jun 09
+804,3043,Ace Combat: Assault Horizon,All,Project ACES,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+805,3044,Championship Manager 99/00,PC,Sports Interactive,Eidos Interactive,N/A,N/A,1.07m,N/A,0.98m,N/A,0.09m,01st Jan 00
+806,3045,Sonic & Sega All-Stars Racing,All,Sumo Digital,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+807,3046,SpeedRunners,PC,DoubleDutch Games,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+808,3047,Virtua Fighter,SAT,Sega-AM2,Sega,9.0,N/A,1.07m,0.17m,0.12m,0.77m,0.02m,11th May 95
+809,3048,MySims Agents,DS,EA Redwood Shores,Electronic Arts,N/A,N/A,1.07m,0.54m,0.42m,0.00m,0.11m,29th Sep 09
+810,3049,WWE SmackDown vs. Raw 2010,PS2,JAKKS Pacific,THQ,N/A,N/A,1.07m,0.53m,0.01m,N/A,0.54m,20th Oct 09
+811,3050,Pro Evolution Soccer 2008,X360,Konami,Konami,N/A,N/A,1.07m,0.08m,0.90m,0.04m,0.05m,12th Mar 08
+812,3051,Tomb Raider: Underworld,X360,Crystal Dynamics,Eidos Interactive,7.5,N/A,1.07m,0.53m,0.42m,0.01m,0.11m,18th Nov 08
+813,3052,NHL 99,PS,EA Canada,EA Sports,N/A,N/A,1.07m,0.59m,0.40m,N/A,0.07m,30th Sep 98
+814,3053,Naruto: Ultimate Ninja Storm    Read the review,PS3,CyberConnect2,Namco Bandai,7.8,N/A,1.07m,0.49m,0.34m,0.09m,0.15m,04th Nov 08
+815,3054,Ridge Racer Revolution,PS,Namco,Namco,N/A,N/A,1.07m,0.17m,0.12m,0.71m,0.07m,30th Sep 96
+816,3055,World Tour Soccer,PSP,SCEE London Studio,Sony Computer Entertainment,7.0,N/A,1.07m,0.10m,0.63m,N/A,0.34m,14th Mar 05
+817,3056,Hot Wheels Turbo Racing,PS,Stormfront Studios,Electronic Arts,N/A,N/A,1.07m,0.59m,0.40m,N/A,0.07m,22nd Sep 99
+818,3057,The Orange Box,PS3,EA UK,Electronic Arts,8.7,N/A,1.07m,0.28m,0.58m,N/A,0.21m,11th Dec 07
+819,3058,Spore Creatures,DS,Foundation 9,Electronic Arts,7.2,N/A,1.07m,0.66m,0.30m,0.00m,0.10m,07th Sep 08
+820,3059,NCAA Football 99,PS,EA Tiburon,EA Sports,N/A,N/A,1.06m,0.59m,0.40m,N/A,0.07m,01st Aug 98
+821,3060,Mortal Kombat: Armageddon,PS2,Midway Games,Midway Games,7.4,N/A,1.06m,0.88m,0.04m,N/A,0.14m,09th Oct 06
+822,3061,Freekstyle,PS2,Page 44 Studios,EA Sports BIG,N/A,N/A,1.06m,0.52m,0.41m,N/A,0.14m,17th Jun 02
+823,3062,DiRT 3,PS3,Codemasters,Codemasters,9.0,N/A,1.06m,0.27m,0.58m,0.01m,0.20m,24th May 11
+824,3063,Simple 1500 Series Vol. 1: The Mahjong,PS,Chat Noir,D3 Publisher,N/A,N/A,1.06m,N/A,N/A,0.99m,0.07m,22nd Oct 98
+825,3064,MLB The Show 18,PS4,SIE San Diego Studio,Sony Interactive Entertainment,N/A,N/A,1.06m,0.86m,N/A,N/A,0.20m,27th Mar 18
+826,3065,Football Manager 2013,PC,Sports Interactive,Sega,N/A,N/A,1.06m,N/A,0.96m,N/A,0.10m,01st Nov 12
+827,3066,NBA Street V3,PS2,EA Canada,EA Sports BIG,N/A,N/A,1.06m,0.52m,0.41m,N/A,0.14m,08th Feb 05
+828,3067,Hulk,PS2,Radical Entertainment,Universal Interactive,N/A,N/A,1.06m,0.52m,0.41m,N/A,0.14m,27th May 03
+829,3068,Endless Ocean    Read the review,Wii,Arika,Nintendo,6.8,N/A,1.06m,0.43m,0.46m,0.09m,0.09m,21st Jan 08
+830,3069,NFL Blitz,N64,Midway Games,Midway Games,N/A,N/A,1.06m,1.02m,0.04m,N/A,0.01m,09th Sep 98
+831,3070,NFL Quarterback Club 98,N64,Iguana Entertainment,Acclaim Entertainment,N/A,N/A,1.06m,1.01m,0.05m,N/A,0.01m,24th Oct 97
+832,3071,Sonic Generations,3DS,Sonic Team,Sega,6.3,N/A,1.06m,0.44m,0.52m,0.01m,0.08m,22nd Nov 11
+833,3072,Mario & Luigi: Paper Jam,3DS,AlphaDream Corporation,Nintendo,7.4,N/A,0.85m,0.20m,0.33m,0.27m,0.04m,22nd Jan 16
+834,3073,Wario Land: Shake It!    Read the review,Wii,Good-Feel,Nintendo,7.3,N/A,1.15m,0.59m,0.31m,0.15m,0.10m,22nd Sep 08
+835,3074,Aliens vs Predator    Read the review,X360,Rebellion Developments,Sega,6.0,N/A,1.06m,0.55m,0.40m,N/A,0.11m,16th Feb 10
+836,3075,Warhawk,PS3,Incognito Entertainment,Sony Computer Entertainment,8.4,N/A,1.06m,0.49m,0.39m,N/A,0.17m,28th Aug 07
+837,3076,Spider-Man 2,GBA,Digital Eclipse,Activision,7.0,N/A,1.06m,0.76m,0.28m,N/A,0.02m,29th Jun 04
+838,3077,Seek and Destroy,PS2,Barnhouse Effect,Conspiracy Entertainment,5.6,N/A,1.06m,0.52m,0.40m,N/A,0.14m,11th Dec 02
+839,3078,Darksiders    Read the review,X360,Vigil Games,THQ,7.8,N/A,1.06m,0.67m,0.28m,0.01m,0.10m,05th Jan 10
+840,3079,LEGO The Lord of the Rings,PS3,Unknown,Warner Bros. Interactive Entertainment,N/A,N/A,1.06m,0.37m,0.52m,N/A,0.16m,13th Nov 12
+841,3080,Mercenaries 2: World in Flames,X360,Pandemic Studios,Electronic Arts,7.1,N/A,1.06m,0.65m,0.30m,0.01m,0.10m,31st Aug 08
+842,3081,Brothers: A Tale of Two Sons,PC,Starbreeze Studios,505 Games,N/A,N/A,N/A,N/A,N/A,N/A,N/A,03rd Sep 13
+843,3082,Sega Superstars Tennis,Wii,Sumo Digital,Sega,7.0,N/A,1.06m,0.28m,0.65m,N/A,0.13m,18th Mar 08
+844,3083,Call of Duty 4: Modern Warfare,DS,n-Space,Activision,7.3,N/A,1.05m,0.95m,0.02m,0.01m,0.08m,05th Nov 07
+845,3084,DiRT    Read the review,PS3,Codemasters,Codemasters,8.3,N/A,1.05m,0.16m,0.66m,N/A,0.23m,11th Sep 07
+846,3085,Resident Evil: The Darkside Chronicles,Wii,"Cavia, inc.",Capcom,7.2,N/A,1.05m,0.46m,0.31m,0.20m,0.09m,17th Nov 09
+847,3086,The Walking Dead: Season Two,PC,Unknown,Telltale Games,N/A,N/A,N/A,N/A,N/A,N/A,N/A,14th Oct 14
+848,3087,Dora the Explorer: Dora Saves the Mermaids,DS,Black Lantern Studios,2K Play,N/A,N/A,1.05m,0.97m,0.01m,N/A,0.08m,05th Nov 07
+849,3088,Cosmic Ark,2600,Imagic,Imagic,N/A,N/A,1.05m,0.99m,0.05m,N/A,0.01m,01st Jan 82
+850,3089,SOCOM: U.S. Navy SEALs Fireteam Bravo 2,PSP,Zipper Interactive,Sony Computer Entertainment,8.2,N/A,1.05m,0.81m,0.11m,N/A,0.13m,07th Nov 06
+851,3090,Disney Infinity,PS3,Unknown,Disney Interactive Studios,N/A,N/A,1.05m,0.53m,0.34m,N/A,0.18m,18th Aug 13
+852,3091,UFC Undisputed 3,PS3,Yukie's Osaka,THQ,N/A,N/A,1.05m,0.55m,0.33m,0.03m,0.14m,14th Feb 12
+853,3092,Defender,2600,Atari,Atari,N/A,N/A,1.05m,0.99m,0.05m,N/A,0.01m,01st Jan 81
+854,3093,MySims Agents    Read the review,Wii,EA Redwood Shores,Electronic Arts,7.5,N/A,1.05m,0.63m,0.32m,0.00m,0.10m,29th Sep 09
+855,3094,Lego Marvel Super Heroes: Universe in Peril,3DS,TT Fusion,Warner Bros. Interactive Entertainment,N/A,N/A,1.05m,0.42m,0.50m,0.04m,0.08m,22nd Oct 13
+856,3095,Adventure Island,NES,Hudson Soft / West One,Hudson Soft,N/A,N/A,1.05m,N/A,N/A,1.05m,0.00m,01st Sep 88
+857,3096,Arc the Lad II,PS,ARC Entertainment,Sony Computer Entertainment,N/A,N/A,1.05m,N/A,N/A,0.92m,0.13m,20th Jun 96
+858,3097,Derby Stallion 96,SNES,ASCII Entertainment,ASCII Entertainment,N/A,N/A,1.05m,N/A,N/A,1.04m,0.01m,15th Mar 96
+859,3098,F-Zero: Maximum Velocity,GBA,"Nd Cube Co., Ltd.",Nintendo,8.7,N/A,1.04m,0.39m,0.16m,0.37m,0.12m,12th Jun 01
+860,3099,Mario Superstar Baseball,GC,Namco / NOW Production,Nintendo,7.2,N/A,1.46m,0.93m,0.24m,0.25m,0.04m,29th Aug 05
+861,3100,Star Fox 64 3D,3DS,Nintendo EAD,Nintendo,8.0,N/A,0.96m,0.48m,0.29m,0.13m,0.07m,09th Sep 11
+862,3101,Tag Team Match M.U.S.C.L.E.,NES,Bandai,Bandai,N/A,N/A,1.05m,N/A,N/A,1.05m,0.00m,01st Oct 86
+863,3102,Virtua Tennis 3,PS3,Sega-AM3,Sega,N/A,N/A,1.05m,0.23m,0.58m,0.03m,0.21m,20th Mar 07
+864,3103,NBA 2K3,PS2,Visual Concepts,Sega,N/A,N/A,1.05m,0.51m,0.40m,N/A,0.13m,08th Oct 02
+865,3104,The Evil Within 2,PS4,Tango Gameworks,Bethesda Softworks,N/A,N/A,1.05m,0.31m,0.49m,0.09m,0.15m,13th Oct 17
+866,3105,The Simpsons: Road Rage,XB,Radical Entertainment,Electronic Arts,N/A,N/A,1.05m,0.78m,0.26m,N/A,0.01m,01st Dec 01
+867,3106,Dave Mirra Freestyle BMX,PS,"Z-Axis, Ltd.",Acclaim Entertainment,7.4,N/A,1.05m,0.91m,0.11m,N/A,0.03m,26th Sep 00
+868,3107,Supreme Commander 2,PC,Gas Powered Games,Square Enix,7.5,N/A,0.19m,N/A,0.15m,N/A,0.04m,02nd Mar 10
+869,3108,Forza Motorsport,XB,Turn 10 Studios,Microsoft Game Studios,9.2,N/A,1.05m,0.52m,0.51m,N/A,0.02m,03rd May 05
+870,3109,Disney Universe,Wii,Disney Interactive Studios,Disney Interactive Studios,N/A,N/A,1.05m,0.66m,0.28m,N/A,0.10m,25th Oct 11
+871,3110,Rocksmith 2014,PS3,Ubisoft San Francisco,Ubisoft,9.1,N/A,1.05m,0.56m,0.26m,0.05m,0.17m,22nd Oct 13
+872,3111,Imagine: Animal Doctor,DS,Virtual Toys / Lexis Numerique,Ubisoft,N/A,N/A,1.05m,0.45m,0.48m,N/A,0.11m,23rd Oct 07
+873,3112,Sonic & SEGA All-Stars Racing,DS,Sumo Digital,Sega,8.3,N/A,1.05m,0.43m,0.51m,N/A,0.11m,23rd Feb 10
+874,3113,Super Hexagon,PC,Terry Cavanagh,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+875,3114,MVP Baseball 2003,PS2,EA Sports,EA Sports,N/A,N/A,1.04m,0.51m,0.40m,N/A,0.13m,10th Mar 03
+876,3115,Legacy of Kain: Soul Reaver,PS,Crystal Dynamics,Eidos Interactive,8.9,N/A,1.04m,0.58m,0.40m,N/A,0.07m,16th Aug 99
+877,3116,WWE SmackDown vs. Raw 2010,X360,JAKKS Pacific,THQ,8.2,N/A,1.04m,0.56m,0.37m,0.01m,0.10m,20th Oct 09
+878,3117,Sleeping Dogs,PS3,United Front Games,Square Enix,8.1,N/A,1.04m,0.31m,0.50m,0.05m,0.17m,14th Aug 12
+879,3118,Titan Quest,PC,Iron Lore Entertainment,THQ,7.6,N/A,0.05m,0.01m,0.04m,N/A,0.01m,26th Jun 06
+880,3119,Aliens vs Predator    Read the review,PS3,Rebellion Developments,Sega,6.1,N/A,1.04m,0.41m,0.46m,N/A,0.18m,16th Feb 10
+881,3120,Prey (2017),PS4,Arkane Studios,Bethesda Softworks,N/A,N/A,1.04m,0.25m,0.62m,0.02m,0.16m,05th May 17
+882,3121,ATV: Quad Power Racing,PS,Climax Group,Acclaim Entertainment,N/A,N/A,1.04m,0.58m,0.39m,N/A,0.07m,23rd Aug 00
+883,3122,Mega Man X4,PS,Capcom,Capcom,N/A,N/A,1.04m,0.45m,0.30m,0.22m,0.07m,01st Jan 97
+884,3123,Naruto: Clash of Ninja 2,GC,8ing/Raizing,D3 Publisher,7.4,N/A,1.04m,0.44m,0.12m,0.45m,0.03m,26th Sep 06
+885,3124,Dance Dance Revolution SuperNOVA,PS2,Konami Computer Entertainment Tokyo,Konami,N/A,N/A,1.04m,0.87m,0.03m,N/A,0.14m,26th Sep 06
+886,3125,Bomberman 64,N64,Hudson Soft,Hudson Soft,6.1,N/A,1.04m,0.50m,0.20m,0.31m,0.03m,02nd Dec 97
+887,3126,Dragon Ball: Xenoverse,PS3,Dimps Corporation,Namco Bandai Games,N/A,N/A,0.52m,0.18m,0.13m,0.15m,0.06m,24th Feb 15
+888,3127,Final Fantasy XII: Revenant Wings    Read the review,DS,Square Enix / Think and Feel Inc.,Square Enix,8.2,N/A,1.37m,0.33m,0.41m,0.54m,0.10m,20th Nov 07
+889,3128,Jeremy McGrath Supercross 98,PS,Acclaim Entertainment,Acclaim Entertainment,N/A,N/A,1.04m,0.91m,0.10m,N/A,0.03m,31st May 98
+890,3129,Monster Rancher,PS,Tecmo,Tecmo,N/A,N/A,1.01m,0.12m,0.08m,0.74m,0.07m,30th Nov 97
+891,3130,Virtua Tennis 4,All,Sega,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+892,3131,Dance on Broadway,Wii,Longtail Studios,Ubisoft,N/A,N/A,1.04m,0.27m,0.65m,N/A,0.12m,15th Jun 10
+893,3132,WipEout Pure,PSP,Studio Liverpool,Sony Computer Entertainment,9.1,N/A,1.04m,0.47m,0.34m,N/A,0.23m,16th Mar 05
+894,3133,LEGO Pirates of the Caribbean: The Video Game,X360,Traveller's Tales,Disney Interactive Studios,7.2,N/A,1.04m,0.54m,0.40m,N/A,0.10m,10th May 11
+895,3134,Need for Speed: Most Wanted,XB,EA Canada,Electronic Arts,N/A,N/A,1.04m,0.53m,0.46m,N/A,0.05m,15th Nov 05
+896,3135,Hotline Miami 2: Wrong Number    Read the review,PC,Dennaton Games,Devolver Digital,8.3,N/A,N/A,N/A,N/A,N/A,N/A,10th Mar 15
+897,3136,Diablo III: Ultimate Evil Edition,XOne,Blizzard Entertainment,Blizzard Entertainment,N/A,N/A,1.04m,0.62m,0.32m,N/A,0.09m,19th Aug 14
+898,3137,MotorStorm: Arctic Edge    Read the review,PSP,Bigbig Studios,Sony Computer Entertainment,7.7,N/A,1.04m,0.16m,0.58m,0.00m,0.30m,29th Sep 09
+899,3138,Brink,X360,Splash Damage,Bethesda Softworks,6.8,N/A,1.04m,0.59m,0.35m,0.01m,0.09m,10th May 11
+900,3139,Disney Infinity 2.0: Marvel Super Heroes,PS3,Avalanche Software,Disney Interactive Studios,N/A,N/A,1.04m,0.52m,0.34m,N/A,0.18m,23rd Sep 14
+901,3140,ZhuZhu Pets,DS,Black Lantern Studios,Activision,N/A,N/A,1.04m,0.68m,0.27m,N/A,0.09m,23rd Mar 10
+902,3141,The Simpsons Game,X360,EA Redwood Shores,Electronic Arts,6.9,N/A,1.04m,0.54m,0.39m,N/A,0.11m,30th Oct 07
+903,3142,Resident Evil VII: Biohazard,XOne,Capcom,Capcom,7.9,N/A,0.89m,0.51m,0.30m,0.00m,0.08m,24th Jan 17
+904,3143,LEGO Indiana Jones: The Original Adventures,PS3,Traveller's Tales,LucasArts,7.7,N/A,1.03m,0.44m,0.43m,N/A,0.17m,03rd Jun 08
+905,3144,MX vs. ATV Unleashed,PS2,Rainbow Studios,THQ,N/A,N/A,1.03m,0.86m,0.03m,N/A,0.14m,16th Mar 05
+906,3145,Tom Clancy's Ghost Recon Advanced Warfighter 2,PS3,Red Storm Entertainment / Ubisoft Paris,Ubisoft,N/A,N/A,1.03m,0.34m,0.48m,0.02m,0.19m,23rd Aug 07
+907,3146,Disney Fairies: Tinker Bell and the Lost Treasure,DS,Hyde,Disney Interactive Studios,N/A,N/A,1.03m,0.57m,0.35m,0.02m,0.10m,27th Oct 09
+908,3147,FIFA Soccer 08,Wii,EA Canada,EA Sports,N/A,N/A,1.03m,0.32m,0.59m,0.01m,0.12m,09th Oct 07
+909,3148,Guinness World Records: The Videogame,Wii,Traveller's Tales,Warner Bros. Interactive,N/A,N/A,1.03m,0.46m,0.47m,N/A,0.11m,11th Nov 08
+910,3149,Assassin's Creed Origins,PC,Ubisoft Montreal,Ubisoft,N/A,N/A,0.10m,0.04m,0.06m,N/A,0.01m,27th Oct 17
+911,3150,NCAA March Madness 2004,PS2,NuFX,EA Sports,N/A,N/A,1.03m,0.50m,0.39m,N/A,0.13m,17th Nov 03
+912,3151,Junior Brain Trainer,DS,Sanuk Games,Take-Two Interactive,N/A,N/A,1.03m,0.23m,0.71m,N/A,0.09m,03rd Nov 09
+913,3152,Active Life: Outdoor Challenge,Wii,High Horse Entertainment,Namco Bandai,N/A,N/A,1.54m,0.78m,0.43m,0.19m,0.14m,09th Sep 08
+914,3153,Bomberman,NES,Hudson Soft,Hudson Soft,N/A,N/A,1.03m,0.18m,N/A,0.85m,N/A,01st Jan 89
+915,3154,Donkey Kong Land III,GB,Rare Ltd.,Nintendo,N/A,N/A,1.03m,0.68m,0.31m,N/A,0.04m,01st Sep 97
+916,3155,Final Fight 2,SNES,Capcom,Capcom,N/A,N/A,1.02m,0.39m,0.12m,0.49m,0.02m,01st Aug 93
+917,3156,Tomb Raider,PC,Core Design Ltd.,Eidos Interactive,8.7,N/A,1.03m,0.96m,0.07m,N/A,N/A,14th Nov 96
+918,3157,Just Dance 2014,X360,Ubisoft Paris,Ubisoft,7.6,N/A,1.03m,0.75m,0.18m,N/A,0.10m,08th Oct 13
+919,3158,Sonic Unleashed,PS3,Sonic Team,Sega,5.3,N/A,1.03m,0.56m,0.32m,0.01m,0.14m,09th Dec 08
+920,3159,The Elder Scrolls III: Morrowind Game of the Year Edition,XB,Bethesda Softworks,Bethesda Softworks,8.3,N/A,1.03m,0.77m,0.22m,N/A,0.04m,31st Oct 03
+921,3160,Dragon Ball Z: Budokai Tenkaichi 3,Wii,Spike / Bandai Namco Games,Atari,7.5,8.6,1.03m,0.32m,0.36m,0.26m,0.08m,03rd Dec 07
+922,3161,Serious Sam HD: The First Encounter,PC,Croteam,Devolver Digital,6.9,N/A,N/A,N/A,N/A,N/A,N/A,24th Nov 09
+923,3162,Tiger Woods PGA Tour 08,Wii,EA Salt Lake,Electronic Arts,7.4,N/A,1.02m,0.93m,0.01m,N/A,0.08m,28th Aug 07
+924,3163,LEGO Indiana Jones 2: The Adventure Continues,X360,Traveller's Tales,LucasArts,N/A,N/A,1.02m,0.62m,0.31m,N/A,0.09m,17th Nov 09
+925,3164,Pokémon Conquest,DS,Tecmo Koei Games,Nintendo,N/A,N/A,1.02m,0.56m,0.05m,0.37m,0.05m,18th Jun 12
+926,3165,Dead Space 3,PS3,Visceral Games,Electronic Arts,N/A,N/A,1.02m,0.45m,0.40m,N/A,0.17m,05th Feb 13
+927,3166,LEGO Jurassic World,PS3,Traveller's Tales,Warner Bros. Interactive Entertainment,N/A,N/A,1.02m,0.36m,0.49m,N/A,0.17m,12th Jun 15
+928,3167,Shrek 2,GC,"Luxoflux, Inc.",Activision,6.9,N/A,1.02m,0.73m,0.26m,0.01m,0.03m,28th Apr 04
+929,3168,Petz: Catz 2,DS,Yuke's Media Creations,Ubisoft,N/A,N/A,1.02m,0.51m,0.40m,N/A,0.11m,14th Nov 07
+930,3169,SoulCalibur V,PS3,Project Soul,Namco Bandai,N/A,N/A,0.76m,0.35m,0.24m,0.07m,0.09m,31st Jan 12
+931,3170,We Ski,Wii,Bandai Namco Games,Namco Bandai,7.1,N/A,1.68m,0.97m,0.41m,0.14m,0.15m,13th May 08
+932,3171,Bulletstorm,X360,People Can Fly,Electronic Arts,8.5,N/A,1.02m,0.61m,0.32m,0.01m,0.08m,22nd Feb 11
+933,3172,The Lost World: Jurassic Park,PS,DreamWorks Interactive,Electronic Arts,N/A,N/A,1.02m,0.57m,0.39m,N/A,0.07m,31st Aug 97
+934,3173,Assassin's Creed: Rogue,X360,Ubisoft Sofia,Ubisoft,N/A,N/A,1.02m,0.59m,0.34m,N/A,0.09m,11th Nov 14
+935,3174,Madden NFL 07,XB,EA Tiburon,EA Sports,8.4,N/A,1.02m,0.97m,0.03m,N/A,0.03m,22nd Aug 06
+936,3175,Wall-E,Wii,Heavy Iron Studios,THQ,N/A,N/A,1.02m,0.51m,0.40m,N/A,0.11m,24th Jun 08
+937,3176,Rock Band 2    Read the review,Wii,Harmonix Music Systems,MTV Games,9.0,N/A,1.02m,0.93m,0.01m,N/A,0.08m,18th Dec 08
+938,3177,Harry Potter and the Prisoner of Azkaban,PS2,Electronic Arts,Electronic Arts,N/A,N/A,1.02m,0.50m,0.39m,N/A,0.13m,02nd Jun 04
+939,3178,Naruto: Clash of Ninja Revolution,Wii,8ting/Raizing,Tomy Corporation,N/A,N/A,1.02m,0.44m,0.46m,N/A,0.11m,23rd Oct 07
+940,3179,The Elder Scrolls Online,PC,ZeniMax Online Studios,Bethesda Softworks,N/A,N/A,1.02m,0.35m,0.59m,N/A,0.08m,04th Apr 14
+941,3180,Pong: The Next Level,PS,Supersonic Software,Hasbro Interactive,N/A,N/A,1.01m,0.56m,0.38m,N/A,0.07m,31st Oct 99
+942,3181,NBA 2K16,X360,Visual Concepts,2K Sports,N/A,N/A,1.01m,0.86m,0.05m,N/A,0.11m,29th Sep 15
+943,3182,MLB 15: The Show,PS4,SCE San Diego Studio,Sony Computer Entertainment America,N/A,N/A,1.01m,0.75m,0.08m,N/A,0.19m,31st Mar 15
+944,3183,The Simpsons Game,Wii,EA Redwood Shores,Electronic Arts,N/A,N/A,1.01m,0.45m,0.46m,N/A,0.11m,30th Oct 07
+945,3184,Steep,PS4,Ubisoft Annecy,Ubisoft,N/A,N/A,1.01m,0.23m,0.60m,0.02m,0.15m,02nd Dec 16
+946,3185,Braid    Read the review,PC,Number None Inc.,Number None,8.8,N/A,0.03m,N/A,0.03m,N/A,0.00m,10th Apr 09
+947,3186,Just Cause 3,XOne,Avalanche Studios,Square Enix,7.0,N/A,1.01m,0.52m,0.41m,N/A,0.09m,01st Dec 15
+948,3187,F1 2012,PS3,Codemasters Birmingham,Codemasters,7.9,N/A,1.01m,0.12m,0.65m,0.05m,0.18m,18th Sep 12
+949,3188,EyePet,PS3,SCEE London Studio,Sony Computer Entertainment,6.9,N/A,1.01m,0.37m,0.52m,0.04m,0.09m,17th Sep 10
+950,3189,The Wolf Among Us,PC,Telltale Games,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+951,3190,Madden NFL 16,X360,EA Tiburon,EA Sports,8.0,N/A,1.01m,0.88m,0.02m,N/A,0.11m,25th Aug 15
+952,3191,LEGO Marvel's Avengers,PS4,Traveller's Tales,Warner Bros. Interactive Entertainment,N/A,N/A,1.01m,0.31m,0.53m,0.01m,0.16m,26th Jan 16
+953,3192,Championship Manager 3,PC,Sports Interactive,Eidos Interactive,N/A,N/A,1.01m,N/A,0.93m,N/A,0.08m,20th Nov 03
+954,3193,Naruto Shippuden: Ultimate Ninja Storm 2,PS3,CyberConnect2,Namco Bandai,7.3,N/A,1.21m,0.42m,0.47m,0.15m,0.17m,19th Oct 10
+955,3194,NBA Jam Tournament Edition,SNES,Iguana Entertainment,Acclaim Entertainment,N/A,N/A,1.01m,0.87m,0.12m,N/A,0.02m,23rd Feb 95
+956,3195,Sekai no Gohan Shaberu! DS Oryouri Navi,DS,Nintendo,Nintendo,N/A,N/A,0.04m,N/A,N/A,0.04m,N/A,04th Dec 08
+957,3196,Prince of Persia    Read the review,X360,Ubisoft Montreal,Ubisoft,8.2,6.0,1.01m,0.54m,0.34m,0.02m,0.10m,02nd Dec 08
+958,3197,LEGO Jurassic World,X360,Traveller's Tales,Warner Bros. Interactive Entertainment,N/A,N/A,1.01m,0.51m,0.41m,N/A,0.09m,12th Jun 15
+959,3198,LEGO Harry Potter: Years 5-7,X360,Traveller's Tales,Warner Bros. Interactive,N/A,N/A,1.01m,0.51m,0.41m,N/A,0.09m,11th Nov 11
+960,3199,NBA 2K10,X360,Visual Concepts,2K Sports,8.4,N/A,1.01m,0.91m,0.02m,0.00m,0.08m,06th Oct 09
+961,3200,Evolve,PS4,Turtle Rock Studios,2K Games,N/A,N/A,1.01m,0.38m,0.41m,0.05m,0.16m,10th Feb 15
+962,3201,Resident Evil 5,PC,Capcom,Capcom,8.9,N/A,0.07m,0.01m,0.05m,N/A,0.01m,15th Sep 09
+963,3202,Far Cry: Primal,XOne,Ubisoft Montreal,Ubisoft,7.8,N/A,1.00m,0.51m,0.41m,N/A,0.09m,23rd Feb 16
+964,3203,Ford Racing 2,PS2,Razorworks Studios,Gotham Games,N/A,N/A,1.00m,0.49m,0.38m,N/A,0.13m,28th Oct 03
+965,3204,Breath of Fire III,PS,Capcom,Capcom,7.6,N/A,1.00m,0.29m,0.19m,0.46m,0.07m,30th Apr 98
+966,3205,NERF N-Strike Elite    Read the review,Wii,EA Salt Lake,Electronic Arts,7.5,N/A,1.00m,0.93m,N/A,N/A,0.07m,26th Oct 09
+967,3206,Rayman Origins,PS3,Ubisoft,Ubisoft,8.5,N/A,1.00m,0.33m,0.50m,0.01m,0.16m,15th Nov 11
+968,3207,PES 2009: Pro Evolution Soccer,X360,Konami,Konami,N/A,N/A,1.00m,0.13m,0.76m,0.03m,0.09m,11th Nov 08
+969,3208,Dead or Alive 2,PS2,Team Ninja,Tecmo,N/A,N/A,1.00m,0.30m,0.24m,0.38m,0.08m,30th Mar 00
+970,3209,UFC Undisputed 3,X360,Yukie's Osaka,THQ,N/A,N/A,1.00m,0.72m,0.20m,0.00m,0.08m,14th Feb 12
+971,3210,1503 A.D.: The New World,PC,Sunflower Studios,Electronic Arts,N/A,N/A,N/A,N/A,N/A,N/A,N/A,23rd Mar 03
+972,3211,1701 A.D.,PC,Related Designs,Aspyr,7.7,N/A,0.29m,N/A,0.25m,N/A,0.03m,06th Nov 06
+973,3212,1942,NES,Capcom,Capcom,N/A,N/A,1.00m,0.65m,0.14m,0.21m,N/A,01st Nov 86
+974,3213,60 Seconds!,All,Robot Gentleman Studios,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+975,3214,A Hat in Time,All,Gears for Breakfast,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+976,3215,A Plague Tale: Innocence,All,Asobo Studio,Unknown,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+977,3216,Age of Conan: Hyborian Adventures,PC,Funcom,Eidos Interactive,7.9,N/A,0.00m,N/A,0.00m,N/A,0.00m,20th May 08
