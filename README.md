@@ -3,7 +3,7 @@ Games Sales Data Analytics
 
 ## __Extract__
 
-Initially we gone to https://data.world world to extract the video game sales data.  However, those were all secondary sources to http://www.vgchartz.com/.  So we opted to get the data directly from the source.  There was a problem the site charges for the use of there api. The only alternative was to screen scrap the website. When initinally scraping the data, the site seems to be either very under power or there is some sort of network throttling(assuming they did this so they can charge for the data).  Any request over 2000 records will cause a 503 error.  In order to bypass this we needed to set up a "range for loop" to extract only about 3-5 page at a time.  If the extraction fail, I will need to run it again within that range. Once the data is scrap off the website, it was organize into a data frame and save to a csv file.
+Initially we gone to https://data.world world to extract the video game sales data.  However, those were all secondary sources to http://www.vgchartz.com/.  So we opted to get the data directly from the source.  There was a problem the site charges for the use of there api. The only alternative was to screen scrap the website. When initinally scraping the data, the site seems to be either very under power or there is some sort of network throttling(assuming they did this so they can charge for the data).  Any request over 2000 records will cause a 503 error.  In order to bypass this we needed to set up a "range for loop" to extract only about 3-5 page at a time.  If the extraction fail, we will need to run it again within that range. Once the data is scrap off the website, it was organize into a data frame and save to a csv file.
 
 
 ## __Transform__ (via GameSales.ipynb)
