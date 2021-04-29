@@ -16,6 +16,7 @@ endpage = 5
 data_list = []
 items_scraped = 0
 data_exists = True
+pages = 0
 
 class NotPositiveError(UserWarning):
 	pass
@@ -76,8 +77,10 @@ while True:
         try:
                 print('Enter the start of page --Default to the first 5 pages')
                 startpage = input()
-                if (startpage.strip() == ""):
-                        print('Starting from page 1')
+                startpage = int(startpage)
+                if (startpage == ""):
+                        startpage = 1
+                        print('Starting from page 1\n')
                         break
                 elif int(startpage) <= 0:
                         #make sure value is positive, otherwise raise user defined error
@@ -85,7 +88,6 @@ while True:
                         break
                 elif int(startpage) > 0:
                         #update variable with new value
-                        dflt_max_rec = in_max
                         print('Starting from  page '+str(startpage))
                         break
                 
@@ -97,8 +99,10 @@ while True:
         try:
                 print('Enter the end of page --Default to the first 5 pages')
                 endpage = input()
-                if (endpage.strip() == ""):
-                        print('Ending from page 5')
+                endpage = int(endpage)
+                if (endpage == ""):
+                        endpage = 5
+                        print('Ending from page 5\n')
                         break
                 elif int(endpage) <= 0:
                         #make sure value is positive, otherwise raise user defined error
@@ -106,7 +110,6 @@ while True:
                         break
                 elif int(endpage) > 0:
                         #update variable with new value
-                        dflt_max_rec = in_max
                         print('Ending from  page '+str(endpage))
                         break
                 
@@ -136,6 +139,8 @@ try:
         
         divparent = soup.find('div', id = 'generalBody')
         table = divparent.find('table')
+        #page count
+        pages +=1
         #Skipping to 3rd row from VGChartz to avoid menu rows and increment max_dat
         for row in table.find_all('tr')[3:]:
 
