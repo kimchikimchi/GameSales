@@ -20,8 +20,10 @@ The following cleaning and transformation steps were taken:
 
 ## __Load__ (via GamesSales.ipynb to Postgres)
 ```
-Note : You may have to update the database credential in the Jupyter Notebook's `create_engine(...)` entry to connect your own database instance
+Note : You may have to update the database credential in the Jupyter Notebook's 'create_engine(...)' entry to connect your own database instance
 ```
 For data storage, we've decided to use a RDMS, Postgres, in case we want to correlate collected data based fields such as  published year or platform.
 
-Data imported into Pandas Dataframes are exported into two tables called 'sales' and 'google_trends'.  Pandas to_sql method handles both database schemas and data insertion.  If executed again, the existing data dropped first in order to avoid inserting data repeatedly.
+Data imported into Pandas Dataframes are exported into two tables called 'sales' and 'google_trends'.  Pandas to_sql method handles both database schemas and data insertion via a connection established through SQL Alchemy  If executed again, the existing data dropped first in order to avoid inserting data repeatedly.
+
+
