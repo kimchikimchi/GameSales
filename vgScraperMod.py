@@ -10,9 +10,10 @@ gc_output_filename ='vgsales'
 gc_output_filetype ='csv'
 
 #global variables
-dflt_max_rec = 10
+dflt_max_rec = 59839
+startpage = 1
+endpage = 5
 data_list = []
-pages = 0
 items_scraped = 0
 data_exists = True
 
@@ -71,14 +72,58 @@ while True:
         except NotPositiveError:
                 print("The number was not positive, please try again.")
                 
+while True:
+        try:
+                print('Enter the start of page --Default to the first 5 pages')
+                startpage = input()
+                if (startpage.strip() == ""):
+                        print('Starting from page 1')
+                        break
+                elif int(startpage) <= 0:
+                        #make sure value is positive, otherwise raise user defined error
+                        raise NotPositiveError
+                        break
+                elif int(startpage) > 0:
+                        #update variable with new value
+                        dflt_max_rec = in_max
+                        print('Starting from  page '+str(startpage))
+                        break
+                
+        except ValueError:
+                print("This was not a number, please try again.")
+        except NotPositiveError:
+                print("The number was not positive, please try again.")
+while True:
+        try:
+                print('Enter the end of page --Default to the first 5 pages')
+                endpage = input()
+                if (endpage.strip() == ""):
+                        print('Ending from page 5')
+                        break
+                elif int(endpage) <= 0:
+                        #make sure value is positive, otherwise raise user defined error
+                        raise NotPositiveError
+                        break
+                elif int(endpage) > 0:
+                        #update variable with new value
+                        dflt_max_rec = in_max
+                        print('Ending from  page '+str(endpage))
+                        break
+                
+        except ValueError:
+                print("This was not a number, please try again.")
+        except NotPositiveError:
+                print("The number was not positive, please try again.")
+
+
+
+
 start_time = time.time()
 print('Starting scrape...')
-i=1
-#while data_exists:
+
 try:
-    for i in range(1, 300):
-        #This is the page number used in the url query. 
-        #pages +=1
+    for i in range(startpage, endpage):
+        #Adjust the range above to allow for download.  There 
                 
         #concat url to include page number
         url = 'http://www.vgchartz.com/gamedb/?page=' + str(i) + '&results=1000&name=&console=&keyword=&publisher=&genre=&order=Sales&ownership=Both&boxart=Both&showdeleted=&region=All&developer=&goty_year=&alphasort=&showtotalsales=1&shownasales=1&showpalsales=1&showjapansales=1&showothersales=1&showpublisher=1&showdeveloper=1&showreleasedate=1&showlastupdate=1&showvgchartzscore=0&showcriticscore=1&showuserscore=1'
@@ -133,10 +178,12 @@ try:
                         
                 #append to a list of data so we can save this row for later
                 #data_list.append(columns)
-        time.sleep(3)
+        #Sleep for 30 sec to avoid 503
+        time.sleep(30)
 except Exception() as e:
-    print(e)
-    data_list.append(columns)
+        data_list.append(columns)
+        print(e)
+    
 
 print('...Scrape completed')
 print()
